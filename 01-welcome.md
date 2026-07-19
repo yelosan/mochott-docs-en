@@ -1,81 +1,69 @@
-# mochottへようこそ
+# Welcome to mochott
 
-mochottは、誰でも無料で使えるブログプラットフォームです。
-あなたの考えや知識を、記事として世界に発信できます。
+mochott is a free blogging platform for everyone. You can share your thoughts and knowledge with the world through your posts and articles.
 
-## mochottの特徴
+## Features of mochott
 
-### 書くことに集中できるエディタ
+### Editors that let you focus on writing
 
-mochottには、高機能なエディタが搭載されています。
-見出し、太字、リスト、画像の挿入など、直感的な操作で記事を書くことができます。
-Markdownに慣れている方は、Markdownモードも選べます。
+mochott has a three editors: Modern, Classic, Markdown. These support standard editing like headings, bold, images, as well as, advanced features like callouts, image alts, image captions, and custom blocks.
 
-<!-- スクリーンショット: エディタ画面の全体像 -->
+<!-- Screenshot: Overview of the editor screen -->
 ![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/images/static/doc-1-1)
 
-### 高速表示とSEO最適化
+### Fast Loading and SEO Optimisation
 
-mochottはページの表示速度を徹底的に追求しています。
-記事ページは素早く表示され、読者をストレスなく迎えられます。
-また、検索エンジンに最適化された構造で記事が公開されるため、Google検索などからの流入も期待できます。
+mochott is thoroughly committed to optimising page loading speed. Article pages load quickly, ensuring a stress-free experience for your readers.
+Furthermore, as articles are published with a structure optimised for search engines, you can expect traffic from search engines such as Startprge, Google Search, DuckDuckGo, and Bing.
 
-### ミニサイトで記事をまとめる
+### Organising Articles into Minisites
 
-関連する記事をグループにまとめて「ミニサイト」として公開できます。
-たとえば「旅行記」「技術メモ」「レシピ集」のように、テーマごとに記事をまとめて整理できます。
-ミニサイトには独自ドメインを設定できるので、自分だけのブログサイトとして運用することも可能です。
+You can group related articles together and publish them as "minisites". For example, you can organise articles by topic, such as "Travel Journal", "Technical Notes", or "Recipe Collections". You can set up your own domain for a minisite, so you can use it as your own blog site.
 
-### カスタムブロック
+### Custom Blocks
 
-自分だけのオリジナルパーツを作って、記事に埋め込むことができます。
-たとえば「引用カード」「レビューボックス」「プロフィール紹介」など、HTMLとCSSで自由にデザインできます。
-作ったブロックはマーケットプレイスで公開でき、他のユーザーが作ったブロックを自分の記事に使うこともできます。
+You can create your own original components and embed them into your articles. For example, you can freely design elements such as "quote cards", "review boxes", and "profile introductions" using HTML and CSS. Blocks created can be published in the marketplace, and blocks created by other users can be used in your own articles.
 
-<!-- スクリーンショット: カスタムブロックのマーケットプレイス画面 -->
+<!-- Screenshot: Custom Blocks Marketplace screen -->
 ![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-2)
 
+### Analytics
 
-### アナリティクス
+You can check the number of views, likes, bookmarks, etc. for each article on the dashboard. By understanding which articles are being read and what kind of reactions they're getting, you can use this insight to plan your next articles.
 
-記事ごとの閲覧数やいいね数、ブックマーク数などをダッシュボードで確認できます。
-どの記事が読まれているか、どんな反応があるかを把握して、次の記事づくりに活かせます。
-
-<!-- スクリーンショット: アナリティクス画面 -->
+<!-- Screenshot: Analytics screen -->
 ![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-3)
 
-### フォロー・購読でつながる
+### Connect through Following and Subscribing
 
-気になるユーザーをフォロー（購読）すると、新しい記事が公開されたときに通知を受け取れます。
-自分だけのタイムラインで、お気に入りの書き手の記事を追いかけられます。
+Follow (subscribe) interesting users to receive notifications when they publish a new article. You can keep up with articles from your favourite writers on your own personalised timeline.
 
-### いいね・ブックマーク・コメント
+### Likes, Bookmarks, and Comments
 
-気に入った記事には「いいね」を。あとで読みたい記事は「ブックマーク」に保存。
-記事にコメントを残して、書き手と交流することもできます。
+Give a 'Like' to articles you enjoy. Save articles you'd like to read later to your 'Bookmarks'. You can also leave comments on articles to interact with the writers.
 
-## mochottとAT Protocol
+## mochott and the AT Protocol
 
-mochottは「AT Protocol」という技術の上に作られています。
-AT Protocolは、Blueskyなどのサービスで使われている、オープンな通信規格です。
+mochott is built on a technology called the 'AT Protocol'.
+The AT Protocol is an open communication standard used by services such as Bluesky.
 
-これがどういうことかというと：
+What this means is:
 
-- **あなたの記事は、あなた自身のものです。** 記事データはあなたのアカウントに紐づいて保管されます。
-- **他のサービスとつながれます。** AT Protocolに対応した他のブログサービスのユーザーとも、フォローや記事の閲覧ができます。
-- **Blueskyのアカウントがそのまま使えます。** すでにBlueskyを使っている方は、同じアカウントでログインできます。
+- **Your articles belong to you.** The article data is stored and linked to your account.
+- **You can connect with other services.** You can follow and view posts from users of other blog services that support the AT Protocol.
+- **You can use your existing Bluesky account.** If you are already using Bluesky, you can log in with the same account.
 
-詳しく知りたい方は「Standard.siteとは」のページもご覧ください。
+If you want to know more, please visit the [What is Standard.site](standard-site) page.
 
-## こんな方におすすめ
+## Recommended for
 
-- ブログを始めてみたい方
-- Blueskyを使っていて、長文でも発信したい方
-- 自分の記事を特定のサービスに縛られずに管理したい方
-- テーマごとに記事を整理して公開したい方
+- Anyone who wants to start a blog
+- Bluesky users who want to publish longer posts
+- Anyone who wants to manage their posts without being tied to a specific service
+- Anyone who wants to organise and publish posts by topic
 
-## 次のステップ
+## Next steps
 
-まずはアカウントを作って、mochottを始めましょう。
+First, let's create an account and a blog to start using mochott.
 
-→ **はじめかた（アカウント登録とログイン）**
+→ **[How to get started (account registration and login)](getting-started)**
