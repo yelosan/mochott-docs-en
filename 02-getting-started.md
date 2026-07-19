@@ -1,70 +1,66 @@
-# はじめかた（アカウント登録とログイン）
+# Getting Started (Account Registration and Login)
 
-mochottを使うには、AT Protocolのアカウントが必要です。
-すでにBlueskyのアカウントをお持ちの方は、そのままログインできます。
-アカウントがない方も、mochottからかんたんに作成できます。
+To use mochott, you need an AT Protocol account. If you already have a Bluesky account, you can log in straight away. If you don't have an account, you can easily create one from mochott.
 
-## アカウントをお持ちでない方
+## If you don't have an account
 
-### tokimeki.socialでアカウントを作る
+### Create an account on tokimeki.social
 
-mochottでは、tokimeki.socialというサーバーのアカウントをその場で作成できます。
+On mochott, you can create an account on the tokimeki.social server straight away.
 
-1. mochottのトップページ右上にある「ログイン」ボタンをクリックします。
+1. Click the "Login" button in the upper right corner of the mochott front page.
 
-<!-- スクリーンショット: トップページのログインボタン -->
+<!-- Screenshot: Log-in button on the homepage -->
 
-2. ログイン画面の下にある「アカウントをお持ちでない方」の新規登録リンクをクリックします。
+2. At the bottom of the login screen, click the new registration link for those who do not have an account.
 
-<!-- スクリーンショット: ログインモーダル下部のリンク -->
+<!-- Screenshot: Link at the bottom of the log-in modal -->
 
-3. 「tokimeki.socialでアカウントを作成」ボタンをクリックします。
+3. Click the Create an Account with tokimeki.social button.
 
-<!-- スクリーンショット: サインアップガイドモーダル -->
+<!-- Screenshot: Sign-up guide modal -->
 
-4. tokimeki.socialの登録画面に移動するので、以下を入力します。
-   - **ユーザー名**: 好きな名前を入力します。これがあなたのハンドル（例: `yourname.tokimeki.social`）になります。
-   - **メールアドレス**: 確認用のメールが届きます。
-   - **パスワード**: 安全なパスワードを設定します。
+4. You will be taken to the tokimeki.social registration screen, where you should enter the following:
+   - **Username**: Enter any name you like. This will become your handle (e.g. 'yourname.tokimeki.social').
+   - **Email address**: A verification email will be sent to this address.
+   - **Password**: Set a secure password.
 
-<!-- スクリーンショット: tokimeki.socialの登録画面 -->
+<!-- Screenshot: tokimeki.social registration screen -->
 
-5. 登録が完了すると、自動的にmochottに戻り、ログイン済みの状態になります。
+5. Once registered, you will be automatically redirected back to mochott, where you will be logged in.
 
-これでアカウント作成は完了です。すぐに記事を書き始められます。
+The account creation is now complete. You can start writing an article immediately.
 
-### tokimeki.socialとは？
+### What is tokimeki.social?
 
-tokimeki.socialは、AT Protocolに対応したサーバーのひとつです。
-ここで作ったアカウントは、mochottだけでなく、Blueskyなど他のAT Protocol対応サービスでも使えます。
+tokimeki.social is one of the servers that supports the AT Protocol. The account you created here can be used not only on mochott but also on other AT Protocol-compatible services, such as Bluesky.
 
-## すでにBlueskyアカウントをお持ちの方
+## If you already have a Bluesky account
 
-Blueskyのアカウントをそのまま使ってログインできます。
+You can log in using your existing Bluesky account.
 
-1. トップページ右上の「ログイン」ボタンをクリックします。
-2. ハンドルを入力します（例: `yourname.bsky.social`）。
+1. Click the Login button in the upper right corner of the front page.
+2. Enter your handle (for example, 'yourname.bsky.social').
 
-<!-- スクリーンショット: ハンドル入力画面 -->
+<!-- Screenshot: Handle input screen -->
 
-3. 「ログイン」ボタンをクリックすると、Blueskyの認証画面に移動します。
-4. mochottへのアクセスを許可すると、自動的にmochottに戻ります。
+3. Click the Login button to go to the Bluesky authentication screen.
+4. If you allow access to mochott, it will automatically return to mochott.
 
-<!-- スクリーンショット: Blueskyの認証許可画面 -->
+<!-- Screenshot: Bluesky Authorization Screen -->
 
-## 他のAT Protocolサーバーのアカウントでもログインできます
+## You can also log in with accounts from other AT Protocol servers
 
-Blueskyやtokimeki.social以外でも、AT Protocolに対応したサーバーのアカウントであればログインできます。
-ログイン画面でご自身のハンドルを入力してください。
+You can log in using an account from any server that supports the AT Protocol, not just Bluesky or tokimeki.social. Just enter your handle on the login screen.
 
-## ログアウトするには
+## To log out
 
-画面右上のアイコンから「ログアウト」を選択します。
+Select Logout from the icon in the upper right corner of the screen.
 
-<!-- スクリーンショット: ログアウトメニュー -->
+<!-- Screenshot: Logout Menu -->
 
-## 次のステップ
+## Next Steps
 
-アカウントの準備ができたら、さっそく記事を書いてみましょう。
+Once your account is set up, why not try writing an article straight away?
 
-→ **記事を書いて投稿する**
+→ **[Write and publish an article](writing-articles)**
