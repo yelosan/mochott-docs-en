@@ -1,70 +1,66 @@
-# ミニサイトを作る
+# Creating a Minisite
 
-ミニサイトは、記事をテーマごとにまとめて公開できる機能です。
-「旅行記」「技術ブログ」「レシピ集」など、自分だけのブログサイトを作るような感覚で使えます。
+A minisite is a feature that allows you to group and publish articles by topic. You can use it as if you were creating your very own blog site, such as a 'Travel Journal', 'Technology Blog', or 'Rcipe collection'.
 
-## ミニサイトとは
+## What is a Minisite?
 
-通常、あなたの記事はプロフィールページにすべて並んで表示されます。
-ミニサイトを使うと、関連する記事だけをまとめた専用ページを作れます。
+Normally, all your articles are displayed in a list on your profile page (`mochott.site/your-handle/`). By using a minisite, you can create dedicated blogs that bring together only related articles.
 
-たとえば、料理の記事と技術の記事を書いている場合、それぞれを別のミニサイトにまとめることで、読者がテーマごとに記事を読みやすくなります。
+For example, if you write articles on cooking and technology, organizing them into separate minisites makes it easier for readers to browse articles by topic.
 
-<!-- スクリーンショット: ミニサイトの表示例 -->
+<!-- Screenshot: Example of a minisite display -->
 
-## ミニサイトを作成する
+## Creating a Minisite
 
-1. ダッシュボードのメニューから「ミニサイト」を選びます。
-2. 「新規作成」ボタンをクリックします。
+1. Select 'Minisites' from the dashboard menu.
+2. Click the 'Create New' button.
 
-<!-- スクリーンショット: ミニサイト管理画面 -->
+<!-- Screenshot: Minisite management screen -->
 
-3. 以下の情報を設定します。
+3. Configure the following information.
 
-### 基本情報
+### Basic Information
 
-- **名前**: ミニサイトのタイトルです（例: 「旅の記録」）。
-- **説明**: ミニサイトの概要を入力します。
-- **アイコン**: ミニサイトのアイコン画像を設定できます。
+- **Name:** The title of the minisite (e.g. 'Travel Blog').
+- **Description:** Enter a summary of the minisite.
+- **Icon:** You can set an icon for your minisite.
 
-### デザイン
+### Design
 
-ミニサイトの見た目をカスタマイズできます。
+You can customise the appearance of your minisite.
 
-- **デザインタイプ**: ブログ、ドキュメント、ポートフォリオから選べます。
-- **カラー設定**: メインカラー、背景色、アクセントカラーを自由に変更できます。
+- **Layout:**: Choose from Blog, Documentation, or Portfolio.
+- **Color Settings:** You can freely change the main color, background color, and accent colour.
 
-<!-- スクリーンショット: デザイン設定画面 -->
+<!-- Screenshot: Design settings screen -->
 
-### URL設定
+### URL Settings
 
-- **スラッグ**: ミニサイトのURLの一部になります（例: `mochott.com/あなたのハンドル/s/travel`）。
-- **グローバルスラッグ**: 短いURLを設定できます（例: `mochott.com/travel`）。すでに他のユーザーに使われているスラッグは設定できません。
+- **Slug:** This forms part of the minisite's URL (e.g. `mochott.com/your-handle/s/travel`).
+- **Global Slug:** You can set a short URL (e.g. `mochott.com/travel`). It must be unique in the mochott system.
 
-## 独自ドメインを設定する
+## Setting up a custom domain
 
-ミニサイトには、自分が持っているドメインを割り当てることができます。
-たとえば `blog.example.com` のように、完全に自分のサイトとして公開できます。
+You can assign a domain you own to your minisite. For example, you can publish it as your own site, such as `blog.example.com`.
 
-独自ドメインを設定すると、読者からはmochottのサービスを意識せずに、あなた専用のブログサイトとして見てもらえます。
+By setting up a custom domain, readers will view it as your own dedicated blog site without being aware of the mochott service.
 
-<!-- スクリーンショット: 独自ドメイン設定画面 -->
+<!-- Screenshot: Custom domain settings screen -->
 
-## 記事をミニサイトに追加する
+## Adding articles to your minisite
 
-ミニサイトに記事を追加する方法は2つあります。
+There are two ways to add articles to your minisite.
 
-### 記事の投稿時に指定する
+### Specify when posting an article
 
-エディタで記事を書くとき、公開前にミニサイトを選択できます。
-これで記事がそのミニサイトに追加されます。
+When writing an article in the editor, you can select a minisite before publishing it. This will add the article to that minisite.
 
-### あとから追加する
+### Add later
 
-ミニサイトの管理画面から、公開済みの記事を追加することもできます。
+You can also add published articles from the minisite management screen.
 
-## 次のステップ
+## Next Step
 
-気になるユーザーの記事を見つけたら、フォローしてみましょう。
+If you find an article by a user you're interested in, why not follow them?
 
-→ **フォローと購読**
+→ **[Following and Subscribing](follow-and-subscribe)**
