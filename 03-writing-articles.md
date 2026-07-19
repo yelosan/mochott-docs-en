@@ -1,113 +1,103 @@
-# 記事を書いて投稿する
+# Writing and publishing articles
 
-ログインしたら、さっそく記事を書いてみましょう。
-mochottのエディタは直感的に使えるので、はじめての方でもすぐに慣れるはずです。
+Once you've logged in, why not have a go at writing an article straight away? The mochott editor is easy to use, so even first-time users should get the hang of it in no time.
 
-## エディタを開く
+## Opening the Editor
 
-ダッシュボードの「新規作成」ボタンをクリックすると、エディタが開きます。
+Click the ‘Create New’ button on the dashboard to open the editor.
 
-<!-- スクリーンショット: ダッシュボードの新規作成ボタン -->
+<!-- Screenshot: ‘Create New’ button on the dashboard -->
 
-## 記事を書く
+## Writing an article
 
-### タイトルと説明
+### Title and description
 
-まずは記事のタイトルを入力します。
-説明（記事の要約）は任意ですが、入力しておくと検索結果やSNSでのシェア時に表示されます。
+First, enter the title of your article. The description (a summary of the article) is optional, but if you include one, it will be displayed in search results and when the article is shared on social media.
 
-<!-- スクリーンショット: タイトルと説明の入力欄 -->
+<!-- Screenshot: Title and description input fields -->
 
-### 本文を書く
+### Writing the main text
 
-本文エリアに文章を入力していきます。テキストを選択すると、ツールバーが表示されます。
+Enter your text into the main text area. When you select some text, the toolbar will appear.
 
-以下のような書式が使えます：
+You can use the following formatting options:
 
-- **太字**・*斜体*
-- 見出し（H2、H3、H4）
-- 箇条書き・番号つきリスト
-- リンクの挿入
-- 引用
-- コードブロック
+- **Bold** and *italics*
+- Headings (H2, H3, H4)
+- Bulleted and numbered lists
+- Inserting links
+- Quotes and callouts
+- Code blocks
 
-<!-- スクリーンショット: ツールバーが表示された状態 -->
+<!-- Screenshot: Toolbar displayed -->
 
-### 画像の挿入
+### Inserting Images
 
-本文中に画像を挿入できます。ドラッグ＆ドロップまたはツールバーから画像を追加できます。
+You can insert images into the body. You can add images by drag-and-drop or from the toolbar.
 
-### カスタムブロックの挿入
+### Insert Custom Blocks
 
-他のユーザーが作ったデザインパーツや、自分で作ったオリジナルパーツを記事に埋め込むことができます。
-エディタのメニューから「ブロック」を選び、マーケットプレイスから好きなブロックを選んで挿入します。
+You can embed design components made by other users, or your own original components, into your articles. Select 'Block' from the editor menu, then choose your preferred block from the Marketplace and insert it.
 
-<!-- スクリーンショット: ブロック挿入の操作画面 -->
+<!-- Screenshot: Block insertion interface -->
 
-### エディタモードの切り替え
+### Switching Editor Mode
 
-エディタには3つのモードがあります。お好みに合わせて切り替えられます。
+There are three modes of the editor. You can switch between them to suit your preferences.
 
-- **モダン**: 見たまま編集できるビジュアルエディタ（デフォルト）
-- **クラシック**: 従来型のエディタ
-- **Markdown**: Markdown記法で書きたい方向け（ベータ版）
+- **Modern:** A visual editor that allows you to edit as you see it, it's WYSIWYG or What You See Is What You Get. This is dhe default editor.
+- **Classic:** A traditional editor.
+- **Markdown:** A basic Markdown editor. (Beta)
 
-### アウトライン表示
+### Sidebar: Outline View
 
-記事が長くなったときは、アウトライン（目次）パネルを開くと、見出しの構成を確認しながら書き進められます。
+When your article gets quite long, opening the Outline (Table of Contents) panel allows you to continue writing whilst checking the structure of your headings.
 
-## カバー画像を設定する
+## Setting a Cover Image
 
-記事の「顔」となるカバー画像を設定できます。
-記事一覧やSNSでシェアしたときに表示されるので、設定しておくのがおすすめです。
+You can set a cover image, which acts as the 'face' of your article.
+It is displayed in the article list, the main page of mochott, and when shared on social media, we recommend setting one.
 
-<!-- スクリーンショット: カバー画像の設定 -->
+<!-- Screenshot: Setting a cover image -->
 
-## カテゴリとタグを設定する
+## Setting a Category and Tags
 
-記事にカテゴリとタグを設定すると、読者が記事を見つけやすくなります。
+Assigning categories and tags to your posts makes it easier for readers to find them.
 
-- **カテゴリ**: あらかじめ用意されたジャンルから選びます。
-- **タグ**: 自由にキーワードを追加できます。複数設定可能です。
+- **Category**: Select from a list of predefined categories.
+- **Tags**: You can add any keywords you like and assign multiple tags.
 
-<!-- スクリーンショット: カテゴリとタグの設定画面 -->
+<!-- Screenshot: Categories and tags settings screen -->
 
-## スラッグ（URL）を設定する
+## Setting the Slug (URL)
 
-記事のURLの末尾部分（スラッグ）を自分で指定できます。
-たとえばスラッグを `my-first-post` にすると、記事のURLは `mochott.com/あなたのハンドル/my-first-post` のようになります。
-設定しない場合は自動で割り当てられます。
+You can specify the ending part of the post URL (the slug) yourself. For example, if you set the slug to `my-first-post`, the post URL will be `mochott.com/your-handle/my-first-post`. If you do not set it, a randomly generated slug will be assigned automatically.
 
-## 記事を公開する
+## Publish an article
 
-記事が書けたら、「公開」ボタンをクリックします。
-公開された記事は、あなたのプロフィールページやフィードに表示されます。
+Once you have finished writing your article, click the 'Publish' button. Published articles will appear on your profile page and in your feed.
 
-<!-- スクリーンショット: 公開ボタン -->
+<!-- Screenshot: Publish button -->
 
-### 下書き保存
+### Save as Draft
 
-まだ公開したくない場合は「下書き保存」を選べます。
-下書きはダッシュボードからいつでも編集・公開できます。
-また、編集中の内容は自動で保存されるので、途中でブラウザを閉じても安心です。
+If you do not wish to publish your post just yet, you can select 'Save Draft'. You can edit or publish your draft at any time from the dashboard.
+Furthermore, your work is automatically saved while you are editing, so you don't have to worry if you accidentally closed your browser while editing.
 
-### 予約投稿
+### Scheduled Posts
 
-「公開日時を指定して予約」を選ぶと、指定した日時に自動で公開されます。
-あらかじめ記事を準備しておいて、決まった時間に公開したいときに便利です。
+If you select 'Schedule for a specific date and time', the post will be published automatically at the specified time. This is useful when you have prepared an article in advance and wish to publish it at a specific time.
 
-## 公開済みの記事を編集する
+## Editing Published Posts
 
-ダッシュボードの記事一覧から、公開済みの記事をクリックすると再編集できます。
-編集履歴が保存されるので、過去の内容に戻すこともできます。
+You can re-edit a published post by clicking on it in the post list on the dashboard. As the edit history is saved, you can revert to previous versions.
 
-## コンテンツ警告を設定する
+## Setting Content Warnings
 
-記事の内容に応じて、コンテンツ警告（閲覧注意の表示）を設定できます。
-読者が安心して記事を閲覧できるよう、必要に応じて設定してください。
+You can set content warnings (content advisory notices) depending on the content of your article. Please set these as necessary to ensure readers can view your articles with peace of mind.
 
-## 次のステップ
+## Next Step
 
-記事の書き方がわかったら、ミニサイトで記事を整理してみましょう。
+Once you've learned how to write articles, why not organize them on a minisite?
 
-→ **ミニサイトを作る**
+→ **[Create a mini-site](minisites)**
