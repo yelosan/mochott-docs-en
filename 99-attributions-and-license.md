@@ -8,4 +8,4 @@ The source material was written by @[holybea.blue](https://aturi.to/profile/holy
 
 ## License
 
-This English translation has been released under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)) license.
+This English translation has been released under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)) license and published from the Philippines.
