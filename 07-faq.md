@@ -48,7 +48,7 @@ No. An article can only be assigned into one minisite. If you want the same cont
 
 ### Q: I don't know how to set up a custom domain
 
-Enter your domain in the minisite settings screen, then configure the DNS records on your domain provider's interface. Please refer to [Create a minisite](minisites) page for detailed instructions.
+Enter your domain in the minisite settings screen, then configure the DNS records on your domain provider's interface. Please refer to [Creating a Minisite](minisites) page for detailed instructions.
 
 ## About Data
 
