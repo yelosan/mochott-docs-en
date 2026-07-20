@@ -1,22 +1,23 @@
 # Follow and Subscribe
 
-mochott lets you follow (subscribe) users you care about. If you follow them, you will be able to read new articles about them quickly.
+**Mochott** lets you follow (subscribe) authors. If you follow them, you will discover the new articles they published.
 
-## Following a User
+## Following an Author
 
-Simply open the profile page of the user you wish to follow and click the 'Follow' button.
+Simply open the profile page of the author you wish to follow and click the 'Follow' button.
 
-<!-- Screenshot: Follow button on the profile page -->
+![A screenshot of the mochott author page with the author avatar, description, ATmosphere handle, links, and 'Follow' button visible.](/images/mochott-author-follow-01.png "The 'Follow' button on the mochott author page.")
 
-## Reading Articles on the Timeline
+## Reading Articles on the Feed page
 
-Articles from users you follow are displayed together on the 'Timeline' page. The Timeline has the following filters:
+Articles from authors you follow are displayed on the "Feed" page. The Feed page has the following filters:
 
-- **All:** Displays mochott and Standard Site compatible articles
-- **mochott:** Only articles from users you follow on mochott
-- **standard.site:** Only articles from external services compatible with Standard.site
+- **All:** Displays mochott and Standard.site-compliant articles.
+- **mochott:** Only articles from authors you follow on mochott.
+- **standard.site:** Only articles from authors you follow with Standard.site-compliant articles.
 
 <!-- Screenshot: Feed screen and filters -->
+![A screenshot of the mochott 'Feed' page displaying the 'All', 'mochott', and 'standard.site' filters as tabs.](/images/mochott-feed-01.png "The mochott 'Feed' page with the 'All', 'mochott', and 'standard.site' filters as tabs.")
 
 ## Receiving notifications
 
@@ -36,7 +37,7 @@ You can enable or disable notifications for each type.
 
 From the 'Subscriptions' page on the dashboard, you can view and manage the following:
 
-- **Followin:** A list of users you are following
+- **Following:** A list of users you are following
 - **Followers:** A list of users who follow you
 
 If you wish to unfollow the user, click the 'Unfollow" button from the list.
@@ -45,6 +46,6 @@ If you wish to unfollow the user, click the 'Unfollow" button from the list.
 
 ## Next Step
 
-mochott articles are also linked to other services. If you want to know how it works, continue to the next page.
+Mochott articles are also linked to other services. If you want to know how it works, continue to the next page.
 
-→ **[What is Standard.site?](standard-site)**
+→ **[What is Standard.site](standard-site)**
