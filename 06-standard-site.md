@@ -1,4 +1,4 @@
-# What is Standard.site?
+# What is Standard.site
 
 **Mochott** is **[Standard.site](https://standard.site)** compliant. This means that articles written on mochott can be discovered, displayed, and read, on other Standard.site-compliant applications, such as [Standard Reader](https://standard-reader.app).
 
