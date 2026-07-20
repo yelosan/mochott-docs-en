@@ -1,48 +1,39 @@
 # What is Standard.site?
 
-Articles written on mochott aren't confined to mochott alone. Through a common system called Standard.site, you can connect with other blog services.
+**Mochott** is **[Standard.site](https://standard.site)** compliant. This means that articles written on mochott can be discovered, displayed, and read, on other Standard.site-compliant applications, such as [Standard Reader](https://standard-reader.app).
 
-## In simple terms
+Think of syndication feeds ("Atom" web standard, and the old "RSS" specification). Website content can be subscribed to and read on other platforms through the syndication feed system. Standard.site is similar, it provides a universal way to store your content into your ATmosphere account which can be read by other Standard.site-compliant applications. Giving you, the author, access to the wider ATmosphere network and community.
 
-Think of email.
-Whether you use Gmail or Yahoo Mail, you can send emails to each other. That's because there's a common system (protocol) known as email.
+## Mochott is Standard.site compliant
 
-Standard.site is a system that aims to achieve the same thing in the world of blogging. Users of another blogging service that supports Standard.site can read an article written on mochott.
+All mochott articles are automatically published in Standard.site format. There are no settings required. You can keep on writing and publishing articles and it all happens in the background.
 
-Conversely, you can read articles written by users of another service in mochott's feed. Even if you use different services, you can follow each other.
+Benefits:
 
-* This is a highly simplified explanation; there are differences in the details, but let's leave that aside for now.
-
-## What happens to your articles?
-
-When you publish an article on mochott, it is automatically published in Standard.site format as well. No special settings are required. You can use it without thinking about it.
-
-As a result:
-
-- **Users of other Standard.site-compatible services will be able to find and read your posts**.
-- **Posts by users of other services may also appear in your feed**.
+- Your articles can be discovered and listed on other Standard.site-compliant applications and platforms.
+- Standard.site-compliant articles published on other platforms can be discovered and listed on mochott.
 
 ## Relationship with the AT Protocol
 
-Standard.site is a 'common set of rules for blogs' built on top of the AT Protocol.
+Standard.site is a standardized set of "rules" for long-form publishing, or blogs, built on top of the **AT Protocol**.
 
 - **AT Protocol:** The underlying technology for data exchange. Bluesky also uses this technology.
-- **Standard.site:** A common format defined on top of the AT Protocol that specifies ‘how blog posts should be recorded on and read from the AT Protocol’.
+- **Standard.site:** A common format defined on top of the AT Protocol that specifies how blog articles should be recorded on and read from the AT Protocol.
 
-mochott supports both of these.
+Mochott supports both.
 
 ## Your Data Belongs to You
 
-With AT Protocol, the articles you write are stored in your account (PDS).
-mochott is just one of the services that displays that data.
+With AT Protocol, the articles you write are stored in your account provider (PDS). Mochott is just one of the services that displays that data.
 
-Even if you stop using mochott, your data will remain on your account (PDS).
-If you switch to another Standard.site-compatible service, you can theoretically carry your posts over as they are (it still depends if that other service reads from the AT Protocol (the preferred way) or requires an import tool (which they have to develop)).
+Even if you stop using mochott, your data will remain on your account. If you switch to another Standard.site-compatible service, you can theoretically carry your posts over as they are (it still depends if that other service reads from the AT Protocol (the preferred way) or requires an import tool (which they have to develop)).
 
 ## Reading posts from supported services
 
-If you select the 'Network' filter on the feed page, you can view posts from Standard.site-compatible services other than mochott.
+If you select the `standard.site` on the menu, you can view articles from Standard.site-compatible services other than mochott.
 
-You can also search for other service users' articles directly by entering the handle in the search.
+<!-- Screenshot: Network filter display on the feed -->
+
+And if you want to only view Standard.site articles from authors you follow, you can do this on the Feed page and selecting the `standard.site` tab
 
 <!-- Screenshot: Network filter display on the feed -->
