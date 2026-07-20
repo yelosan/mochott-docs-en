@@ -1,52 +1,50 @@
-# フォローと購読
+# Follow and Subscribe
 
-mochottでは、気になるユーザーをフォロー（購読）できます。
-フォローすると、そのユーザーの新しい記事をいち早く読めるようになります。
+mochott lets you follow (subscribe) users you care about. If you follow them, you will be able to read new articles about them quickly.
 
-## ユーザーをフォローする
+## Following a User
 
-フォローしたいユーザーのプロフィールページを開き、「フォロー」ボタンをクリックするだけです。
+Simply open the profile page of the user you wish to follow and click the 'Follow' button.
 
-<!-- スクリーンショット: プロフィールページのフォローボタン -->
+<!-- Screenshot: Follow button on the profile page -->
 
-## タイムラインで記事を読む
+## Reading Articles on the Timeline
 
-フォローしたユーザーの記事は、「タイムライン」ページにまとめて表示されます。
-タイムラインには以下のフィルターがあります。
+Articles from users you follow are displayed together on the 'Timeline' page. The Timeline has the following filters:
 
-- **すべて**: mochottの記事と、外部のStandard.site対応サービスの記事をまとめて表示
-- **mochott**: mochott内のフォローユーザーの記事のみ
-- **standard.site**: 外部のStandard.site対応サービスの記事のみ
+- **All:** Displays mochott and Standard Site compatible articles
+- **mochott:** Only articles from users you follow on mochott
+- **standard.site:** Only articles from external services compatible with Standard.site
 
-<!-- スクリーンショット: フィード画面とフィルター -->
+<!-- Screenshot: Feed screen and filters -->
 
-## 通知を受け取る
+## Receiving notifications
 
-フォローしたユーザーが新しい記事を公開すると、通知が届きます。
-通知はダッシュボードの「通知」ページで確認できます。
+You will receive a notification when a user you follow publishes a new article.
+You can view notifications on the 'Notifications' page in the dashboard.
 
-通知の種類ごとにオン・オフを切り替えられます。
+You can enable or disable notifications for each type.
 
-- 新しい記事の公開
-- いいね
-- 新しいフォロワー
-- コメント・返信
+- New posts
+- Likes
+- New followers
+- Comments and replies
 
-<!-- スクリーンショット: 通知設定画面 -->
+<!-- Screenshot: Notifications settings screen -->
 
-## フォロー・フォロワーを管理する
+## Managing who you follow and your followers
 
-ダッシュボードの「購読」ページから、以下を確認・管理できます。
+From the 'Subscriptions' page on the dashboard, you can view and manage the following:
 
-- **フォロー中**: あなたがフォローしているユーザーの一覧
-- **フォロワー**: あなたをフォローしているユーザーの一覧
+- **Followin:** A list of users you are following
+- **Followers:** A list of users who follow you
 
-フォローを解除したい場合は、一覧からそのユーザーの「フォロー解除」ボタンをクリックします。
+If you wish to unfollow the user, click the 'Unfollow" button from the list.
 
-<!-- スクリーンショット: 購読管理画面 -->
+<!-- Screenshot: Subscription management screen -->
 
-## 次のステップ
+## Next Step
 
-mochottの記事は、他のサービスともつながっています。その仕組みを知りたい方はこちら。
+mochott articles are also linked to other services. If you want to know how it works, continue to the next page.
 
-→ **Standard.siteとは**
+→ **[What is Standard.site?](standard-site)**
