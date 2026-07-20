@@ -28,12 +28,12 @@ With AT Protocol, the articles you write are stored in your account provider (PD
 
 Even if you stop using mochott, your data will remain on your account. If you switch to another Standard.site-compatible service, you can theoretically carry your posts over as they are (it still depends if that other service reads from the AT Protocol (the preferred way) or requires an import tool (which they have to develop)).
 
-## Reading posts from supported services
+## Reading articles from Standard.site-compliant platforms
 
-If you select the `standard.site` on the menu, you can view articles from Standard.site-compatible services other than mochott.
+If you select the `standard.site` on the menu ([mochott.site/standard-site](https://mochott.site/standard-site), you can view articles from Standard.site-compliant services other than mochott.
 
-<!-- Screenshot: Network filter display on the feed -->
+![](/images/mochott-standard_site-01.png "")
 
-And if you want to only view Standard.site articles from authors you follow, you can do this on the Feed page and selecting the `standard.site` tab
+And if you want to only view Standard.site articles from authors you follow, you can do this on the Feed page and selecting the `standard.site` tab ([mochott.site/feed?filter=network](https://mochott.site/feed?filter=network)).
 
-<!-- Screenshot: Network filter display on the feed -->
+![](/images/mochott-feed-standard_site-01.png "")
