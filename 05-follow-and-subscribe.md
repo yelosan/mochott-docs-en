@@ -24,7 +24,7 @@ Articles from authors you follow are displayed on the "Feed" page. The Feed page
 You will receive a notification when an author you follow publishes a new article. You can view the notifications and notification settings on the "Notifications" pop-up by clicking the bell icon at the top-right area of the mochott website. The notifications and notification settings can also be viewed conveniently from your dashboard page ([mochott.site/dashboard/notifications](https://mochott.site/dashboard/notifications).
 
 ![A screenshot focused on the mochott notification area showing the notification settings and a notification.](/images/mochott-notifications-01.png "The mochott notifications section and settings from the bell pop-up.")
-m
+
 ![A screenshot of the mochott notification dashboard page showing the notification settings and a notification.](/images/mochott-notifications-02.png "The mochott notifications section and settings from the dashboard view.")
 
 The following notifications are enabled by default and can be toggled-off:
