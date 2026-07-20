@@ -2,76 +2,76 @@
 
 ## About Accounts
 
-### Does it cost anything to use mochott?
+### Q: Does it cost anything to use mochott?
 
-It's free to use. All basic features—such as creating an account, posting articles and following others—are free of charge. Please note that we plan to offer paid plans in the future, and there may be plan-specific limits on the number of drafts or mini-sites you can create.
+**Mochott** is free to use. All basic features—such as creating an account, posting articles, and following other authors—are free of charge. Please note that we plan to offer paid plans in the future, and there may be plan-specific limits on the number of drafts or minisites you can create.
 
-### Do I need a Bluesky account to use it?
+### Q: Do I need a Bluesky account to use it?
 
-You don't have to have a Bluesky account. You can create a tokimeki.social account from the mochott screen and start blogging immediately. Of course, if you already have a Bluesky account, you can use it.
+You do not need a Bluesky account. You can create a **[tokimeki.social](https://tokimeki.social)** account from the mochott homepage and start blogging immediately. Of course, if you already have a Bluesky account, you can use it by simply logging in.
 
-### Are followers and posts on mochott separate from those on Bluesky?
+### Q: Are followers and articles on mochott separate from those on Bluesky?
 
-Yes, they are separate. Articles and follow relationships on mochott do not appear on your Bluesky timeline. Although you use the same account, the services are independent of one another.
+Yes, those are separate. Articles and follow relationships on mochott do not appear on your Bluesky. Although you use the same account, the services are independent of each another.
 
-### I forgot my password
+### Q: I forgot my password!
 
-mochott itself has no password. Login is done through AT Protocol authentication. Please reset your password on the server where you created your account (such as Bluesky or tokimeki.social).
+Mochott itself has no password. Login is done through AT Protocol authentication system. Please reset your password on the server where you created your account (such as [tokimeki.social](https://tokimeki.social), [eurosky.social](https://eurosky.social), or [bsky.app](https://bsky.app)).
 
 ## About Articles
 
-### Is there a character limit for articles?
+### Q: Is there a character limit for articles?
 
-The text can be up to 100,000 characters and the title can be up to 500 characters. This is more than enough for a typical blog post.
+An article can have up to 100,000 characters and the article title up to 500. It is more than enough for a typical article.
 
-### Can I delete an article?
+### Q: Can I delete an article?
 
-Yes. You can delete it from the article list on the dashboard.
+Yes. You can delete an article from the article list on your dashboard.
 
-### Can I revert a published article to a draft?
+### Q: Can I revert a published article to a draft?
 
-Yes. You can unpublish a published post which reverts it to a draft.
+Yes. You can unpublish a published article which reverts it to a draft. Simply edit the article and then click the "Revert to draft" button. 
 
-### Can I choose the post URL myself?
+### Q: Can I choose a custom article URL?
 
-Yes. You can freely set the slug (the part at the end of the URL) in the editor.
+Yes. You can freely set the slug (an article's unique URL) in the editor.
 
 ## About Minisites
 
-### How many minisites can I create?
+### Q: How many minisites can I create?
 
-You can create multiple minisites. Please use them according to your theme or purpose.
+You can create multiple minisites as you see fit for your content.
 
-### Can I include an article on multiple minisites?
+### Q: Can I include an article on multiple minisites?
 
-An article can only belong to one minisite.
+No. An article can only be assigned into one minisite. If you want the same content to be in multiple minisites, you will have to duplicate it and have unique article slugs.
 
-### I don't know how to set up a custom domain
+### Q: I don't know how to set up a custom domain
 
-Enter your domain in the minisite settings screen, then configure the DNS records via your domain management service. Please refer to the 'Create a mini-site' page for detailed instructions.
+Enter your domain in the minisite settings screen, then configure the DNS records on your domain provider's interface. Please refer to [Create a minisite](minisites) page for detailed instructions.
 
 ## About Data
 
-### What happens to my posts if I stop using mochott?
+### Q: What happens to my content if I stop using mochott?
 
-Your article data is stored in your AT Protocol account (PDS). Even if you stop using mochott, your data will remain. You can continue to publish your articles by migrating to another service that supports Standard.site.
+Your articles are stored in your ATmosphere account provider (PDS). Even if you stop using mochott, your data will remain in your account. You can continue publishing new articles by using another service that supports **[Standard.site](https://standard.site)**.
 
-### Can I back up my articles?
+### Q: Can I backup my content?
 
-As your article data is stored on your account's servers (PDS), it is automatically backed up.
+As your content data is stored on your account provider's servers (PDS), it is automatically backed-up.
 
-## Other
+## Other Questions
 
-### Which browsers are supported?
+### Q: Which browsers are supported?
 
-It is compatible with the latest versions of Mozilla Firefox, Naver Whale, Via, Safari, Vivaldi, and Microsoft Edge, to mention a few.
+Any current modern browsers are supported like Mozilla Firefox, Navir Whale, Via, Safari, Vivaldi, and Microsoft Edge, to mention few.
 
-### Can I use it on a smartphone?
+### Q: Can I use it on a smartphone?
 
-Yes. You can access the service via your smartphone's browser to view and post articles.
+Yes. You can access mochott via your smartphone's browser to view and post articles.
 
-### I've found a bug or have a request
+### Q: Where can file a bug report or submit suggestions?
 
-If you have any feedback or requests, please let us know at @tokimeki.blue.
+If you have any feedback or requests, please let us know at @[tokimeki.blue](https://aturi.to/profile/tokimeki.blue).
 
 <!-- Include links to contact details or official account handles -->
