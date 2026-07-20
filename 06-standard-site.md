@@ -1,52 +1,48 @@
-# Standard.siteとは
+# What is Standard.site?
 
-mochottで書いた記事は、mochottの中だけにとどまりません。
-Standard.siteという共通の仕組みを通じて、他のブログサービスともつながることができます。
+Articles written on mochott aren't confined to mochott alone. Through a common system called Standard.site, you can connect with other blog services.
 
-## かんたんに言うと
+## In simple terms
 
-メールを思い浮かべてください。
-Gmailを使っている人も、Yahooメールを使っている人も、お互いにメールを送り合えますよね。
-それは、メールという共通の仕組み（プロトコル）があるからです。
+Think of email.
+Whether you use Gmail or Yahoo Mail, you can send emails to each other. That's because there's a common system (protocol) known as email.
 
-Standard.siteは、ブログの世界で同じことを実現しようとする仕組みです。
-mochottで書いた記事を、Standard.siteに対応した別のブログサービスのユーザーが読める。
-逆に、別のサービスのユーザーが書いた記事を、mochottのフィードで読める。
-サービスが違っても、フォローし合えるのです。
+Standard.site is a system that aims to achieve the same thing in the world of blogging. Users of another blogging service that supports Standard.site can read an article written on mochott.
 
-※これはかなり簡略化して説明しており、詳しく言うと異なる部分がありますが、いったん置いておきましょう。
+Conversely, you can read articles written by users of another service in mochott's feed. Even if you use different services, you can follow each other.
 
-## あなたの記事はどうなる？
+* This is a highly simplified explanation; there are differences in the details, but let's leave that aside for now.
 
-mochottで記事を公開すると、自動的にStandard.site形式でも公開されます。
-特別な設定は不要です。意識せずに使えます。
+## What happens to your articles?
 
-これによって：
+When you publish an article on mochott, it is automatically published in Standard.site format as well. No special settings are required. You can use it without thinking about it.
 
-- **他のStandard.site対応サービスのユーザーが、あなたの記事を見つけて読める**ようになります。
-- **あなたのフィードに、他のサービスのユーザーの記事が流れてくる**こともあります。
+As a result:
 
-## AT Protocolとの関係
+- **Users of other Standard.site-compatible services will be able to find and read your posts**.
+- **Posts by users of other services may also appear in your feed**.
 
-Standard.siteは、AT Protocolの上に作られた「ブログのための共通ルール」です。
+## Relationship with the AT Protocol
 
-- **AT Protocol**: データのやりとりの基盤となる技術。Blueskyもこの技術を使っています。
-- **Standard.site**: AT Protocolの上で「ブログ記事をどう表現するか」を決めた共通の形式。
+Standard.site is a 'common set of rules for blogs' built on top of the AT Protocol.
 
-mochottは、この両方に対応しています。
+- **AT Protocol:** The underlying technology for data exchange. Bluesky also uses this technology.
+- **Standard.site:** A common format defined on top of the AT Protocol that specifies ‘how blog posts should be recorded on and read from the AT Protocol’.
 
-## あなたのデータはあなたのもの
+mochott supports both of these.
 
-AT Protocolでは、あなたが書いた記事はあなたのアカウント（PDS）に保存されます。
-mochottはそのデータを表示するサービスのひとつにすぎません。
+## Your Data Belongs to You
 
-もしmochottを使わなくなっても、あなたのデータは残ります。
-別のStandard.site対応サービスに移っても、記事をそのまま引き継ぐことができます。
+With AT Protocol, the articles you write are stored in your account (PDS).
+mochott is just one of the services that displays that data.
 
-## 対応サービスの記事を読む
+Even if you stop using mochott, your data will remain on your account (PDS).
+If you switch to another Standard.site-compatible service, you can theoretically carry your posts over as they are (it still depends if that other service reads from the AT Protocol (the preferred way) or requires an import tool (which they have to develop)).
 
-フィードページで「ネットワーク」フィルターを選ぶと、mochott以外のStandard.site対応サービスの記事を閲覧できます。
+## Reading posts from supported services
 
-また、検索でハンドルを入力すれば、他のサービスのユーザーの記事を直接探すこともできます。
+If you select the 'Network' filter on the feed page, you can view posts from Standard.site-compatible services other than mochott.
 
-<!-- スクリーンショット: フィードのネットワークフィルター表示 -->
+You can also search for other service users' articles directly by entering the handle in the search.
+
+<!-- Screenshot: Network filter display on the feed -->
