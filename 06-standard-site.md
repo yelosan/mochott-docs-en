@@ -30,10 +30,10 @@ Even if you stop using mochott, your data will remain on your account. If you sw
 
 ## Reading articles from Standard.site-compliant platforms
 
-If you select the `standard.site` on the menu ([mochott.site/standard-site](https://mochott.site/standard-site), you can view articles from Standard.site-compliant services other than mochott.
+If you select `standard.site` on the menu ([mochott.site/standard-site](https://mochott.site/standard-site)), you can view articles from Standard.site-compliant services other than mochott.
 
-![](/images/mochott-standard_site-01.png "")
+![A screenshot of mochott focused on the menu with the standard.site option.](/images/mochott-standard_site-01.png "The mochott upper-left menu with the standard.site option.")
 
 And if you want to only view Standard.site articles from authors you follow, you can do this on the Feed page and selecting the `standard.site` tab ([mochott.site/feed?filter=network](https://mochott.site/feed?filter=network)).
 
-![](/images/mochott-feed-standard_site-01.png "")
+![A screenshot of mochott's Feed page showing the standard.site tab.](/images/mochott-feed-standard_site-01.png "The mochott Feed page with the standard.site tab selected.")
