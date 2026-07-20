@@ -2,7 +2,7 @@
 
 ## Attributions
 
-The English translation was provided free-of-charge by [Yelosan Publishing](https://yelosan.youronly.one) and was done by [Yohan Yukiya Sese Cuneta](https://pro.youronly.one) (@[sera.is.youronly.one](https://aturi.to/profile/sera.is.youronly.one).
+The English translation was provided free-of-charge by [Yelosan Publishing](https://yelosan.youronly.one) and was done by [Yohan Yukiya Sese Cuneta](https://pro.youronly.one) (@[sera.is.youronly.one](https://aturi.to/profile/sera.is.youronly.one)).
 
 The source material was written by @[holybea.blue](https://aturi.to/profile/holybea.blue) and the source code can be found on this [Tangled](https://tangled.org/holybea.blue/mochott-docs-ja) repo.
 
