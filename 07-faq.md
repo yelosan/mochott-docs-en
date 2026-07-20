@@ -1,78 +1,77 @@
-# よくある質問
+# Frequently Asked Questions
 
-## アカウントについて
+## About Accounts
 
-### mochottを使うのにお金はかかりますか？
+### Does it cost anything to use mochott?
 
-無料で使えます。アカウント作成、記事の投稿、フォローなど、基本的な機能はすべて無料です。
-なお将来的には、有料プランの提供を予定しており、下書き数やミニサイト作成数などにプラン別の制限が設けられる可能性があります。
+It's free to use. All basic features—such as creating an account, posting articles and following others—are free of charge. Please note that we plan to offer paid plans in the future, and there may be plan-specific limits on the number of drafts or mini-sites you can create.
 
-### Blueskyのアカウントがないと使えませんか？
+### Do I need a Bluesky account to use it?
 
-Blueskyのアカウントがなくても大丈夫です。mochottの画面からtokimeki.socialのアカウントを作成して、すぐに始められます。もちろん、すでにBlueskyアカウントをお持ちの方はそのまま使えます。
+You don't have to have a Bluesky account. You can create a tokimeki.social account from the mochott screen and start blogging immediately. Of course, if you already have a Bluesky account, you can use it.
 
-### Blueskyでのフォロワーや投稿とは別ですか？
+### Are followers and posts on mochott separate from those on Bluesky?
 
-はい、別です。mochottでの記事投稿やフォロー関係は、Blueskyのタイムラインには表示されません。同じアカウントを使いますが、サービスとしては独立しています。
+Yes, they are separate. Articles and follow relationships on mochott do not appear on your Bluesky timeline. Although you use the same account, the services are independent of one another.
 
-### パスワードを忘れました
+### I forgot my password
 
-mochott自体にはパスワードがありません。ログインはAT Protocolの認証を通じて行われます。パスワードのリセットは、アカウントを作成したサーバー（Blueskyやtokimeki.socialなど）で行ってください。
+mochott itself has no password. Login is done through AT Protocol authentication. Please reset your password on the server where you created your account (such as Bluesky or tokimeki.social).
 
-## 記事について
+## About Articles
 
-### 記事の文字数制限はありますか？
+### Is there a character limit for articles?
 
-本文は最大100,000文字、タイトルは最大500文字です。一般的なブログ記事であれば、十分な長さを書けます。
+The text can be up to 100,000 characters and the title can be up to 500 characters. This is more than enough for a typical blog post.
 
-### 記事を削除できますか？
+### Can I delete an article?
 
-はい。ダッシュボードの記事一覧から削除できます。
+Yes. You can delete it from the article list on the dashboard.
 
-### 公開した記事を下書きに戻せますか？
+### Can I revert a published article to a draft?
 
-はい。公開済みの記事を非公開にして、下書きに戻すことができます。
+Yes. You can unpublish a published post which reverts it to a draft.
 
-### 記事のURLを自分で決められますか？
+### Can I choose the post URL myself?
 
-はい。エディタでスラッグ（URLの末尾部分）を自由に設定できます。
+Yes. You can freely set the slug (the part at the end of the URL) in the editor.
 
-## ミニサイトについて
+## About Minisites
 
-### ミニサイトはいくつ作れますか？
+### How many minisites can I create?
 
-複数のミニサイトを作成できます。テーマや目的に応じて使い分けてください。
+You can create multiple minisites. Please use them according to your theme or purpose.
 
-### ひとつの記事を複数のミニサイトに入れられますか？
+### Can I include an article on multiple minisites?
 
-記事はひとつのミニサイトにのみ所属できます。
+An article can only belong to one minisite.
 
-### 独自ドメインの設定方法がわかりません
+### I don't know how to set up a custom domain
 
-ミニサイトの設定画面からドメインを入力し、お使いのドメイン管理サービスでDNSレコードを設定してください。詳しい手順は「ミニサイトを作る」のページをご覧ください。
+Enter your domain in the minisite settings screen, then configure the DNS records via your domain management service. Please refer to the 'Create a mini-site' page for detailed instructions.
 
-## データについて
+## About Data
 
-### mochottをやめたら記事はどうなりますか？
+### What happens to my posts if I stop using mochott?
 
-あなたの記事データはAT Protocolのアカウント（PDS）に保存されています。mochottを使わなくなっても、データは残ります。Standard.siteに対応した別のサービスに移行すれば、記事を引き続き公開できます。
+Your article data is stored in your AT Protocol account (PDS). Even if you stop using mochott, your data will remain. You can continue to publish your articles by migrating to another service that supports Standard.site.
 
-### 記事のバックアップはとれますか？
+### Can I back up my articles?
 
-記事データはAT Protocolのサーバーに保存されているため、自動的に保管されています。
+As your article data is stored on your account's servers (PDS), it is automatically backed up.
 
-## その他
+## Other
 
-### 対応しているブラウザは？
+### Which browsers are supported?
 
-最新版のChrome、Firefox、Safari、Edgeに対応しています。
+It is compatible with the latest versions of Mozilla Firefox, Naver Whale, Via, Safari, Vivaldi, and Microsoft Edge, to mention a few.
 
-### スマートフォンから使えますか？
+### Can I use it on a smartphone?
 
-はい。スマートフォンのブラウザからアクセスして、記事の閲覧や投稿ができます。
+Yes. You can access the service via your smartphone's browser to view and post articles.
 
-### 不具合を見つけた・要望がある
+### I've found a bug or have a request
 
-ご意見やご要望がありましたら、 @tokimeki.blue までお知らせください。
+If you have any feedback or requests, please let us know at @tokimeki.blue.
 
-<!-- 連絡先のリンクや公式アカウントのハンドルを記載 -->
+<!-- Include links to contact details or official account handles -->
