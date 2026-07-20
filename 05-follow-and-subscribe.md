@@ -21,28 +21,24 @@ Articles from authors you follow are displayed on the "Feed" page. The Feed page
 
 ## Receiving notifications
 
-You will receive a notification when a user you follow publishes a new article.
-You can view notifications on the 'Notifications' page in the dashboard.
+You will receive a notification when an author you follow publishes a new article. You can view the notifications and notification settings on the "Notifications" pop-up by clicking the bell icon at the top-right area of the mochott website. The notifications and notification settings can also be viewed conveniently from your dashboard page ([mochott.site/dashboard/notifications](https://mochott.site/dashboard/notifications).
 
-You can enable or disable notifications for each type.
+![A screenshot focused on the mochott notification area showing the notification settings and a notification.](/images/mochott-notifications-01.png "The mochott notifications section and settings from the bell pop-up.")
+m
+![A screenshot of the mochott notification dashboard page showing the notification settings and a notification.](/images/mochott-notifications-02.png "The mochott notifications section and settings from the dashboard view.")
 
-- New posts
+The following notifications are enabled by default and can be toggled-off:
+
+- New Articles
 - Likes
-- New followers
-- Comments and replies
-
-<!-- Screenshot: Notifications settings screen -->
+- New Followers
+- Comments
 
 ## Managing who you follow and your followers
 
-From the 'Subscriptions' page on the dashboard, you can view and manage the following:
+On your "Subscriptions" page ([mochott.site/dashboard/subscriptions](https://mochott.site/dashboard/subscriptions)), you can view and manage who you follow and list your followers.
 
-- **Following:** A list of users you are following
-- **Followers:** A list of users who follow you
-
-If you wish to unfollow the user, click the 'Unfollow" button from the list.
-
-<!-- Screenshot: Subscription management screen -->
+![A screenshot of the mochott 'Subscriptions' page where the 'Following' and 'Followers' lists are displayed on two separate tabs.](/images/mochott-subscriptions-01.png "The 'Subscriptions' page where 'Following' and 'Followers' are listed.")
 
 ## Next Step
 
