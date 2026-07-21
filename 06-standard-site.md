@@ -32,8 +32,8 @@ Even if you stop using mochott, your data will remain on your account. If you sw
 
 If you select `standard.site` on the menu ([mochott.site/standard-site](https://mochott.site/standard-site)), you can view articles from Standard.site-compliant services other than mochott.
 
-![A screenshot of mochott focused on the menu with the standard.site option.](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=images/mochott-standard_site-01.png&ref=main&repo=did:plc:henromw7exy7zfpujzlve4je "The mochott upper-left menu with the standard.site option.")
+![A screenshot of mochott focused on the menu with the standard.site option.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-standard_site-01.png "The mochott upper-left menu with the standard.site option.")
 
 And if you want to only view Standard.site articles from authors you follow, you can do this on the Feed page and selecting the `standard.site` tab ([mochott.site/feed?filter=network](https://mochott.site/feed?filter=network)).
 
-![A screenshot of mochott's Feed page showing the standard.site tab.](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=images/mochott-feed-standard_site-01.png&ref=main&repo=did:plc:henromw7exy7zfpujzlve4je "The mochott Feed page with the standard.site tab selected.")
+![A screenshot of mochott's Feed page showing the standard.site tab.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-feed-standard_site-01.png "The mochott Feed page with the standard.site tab selected.")
