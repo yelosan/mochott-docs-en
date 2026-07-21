@@ -1,77 +1,80 @@
-# Writing and publishing articles
+# Writing, Publishing Articles
 
-Once you've logged in, why not have a go at writing an article straight away? The mochott editor is easy to use, so even first-time users should get the hang of it in no time.
-
-## Opening the Editor
-
-Click the ‘Create New’ button on the dashboard to open the editor.
+## Writing An article
 
 <!-- Screenshot: ‘Create New’ button on the dashboard -->
 
-## Writing an article
+Simply click the "New Post" button on the dashboard to start a new article draft.
 
-### Title and description
-
-First, enter the title of your article. The description (a summary of the article) is optional, but if you include one, it will be displayed in search results and when the article is shared on social media.
+### Title and Description
 
 <!-- Screenshot: Title and description input fields -->
 
-### Writing the main text
+First, enter the title of your article. The description (a summary of the article) is optional but amis highly advisable for search engine results and when your article is shared on social media.
 
-Enter your text into the main text area. When you select some text, the toolbar will appear.
+### Body
 
-You can use the following formatting options:
+Write your content into the main text area. While writing, if you select some text, a toolbar will appear where these text options are available:
+
+<!-- Screenshot: Toolbar displayed -->
 
 - **Bold** and *italics*
 - Headings (H2, H3, H4)
 - Bulleted and numbered lists
 - Inserting links
 - Quotes and callouts
-- Code blocks
-
-<!-- Screenshot: Toolbar displayed -->
+- Custom blocks
 
 ### Inserting Images
 
-You can insert images into the body. You can add images by drag-and-drop or from the toolbar.
+Images can be inserted into your content. This can be done by drag-and-dropping an image to the text editor, or by clicking the image icon from the toolbar.
 
-### Insert Custom Blocks
-
-You can embed design components made by other users, or your own original components, into your articles. Select 'Block' from the editor menu, then choose your preferred block from the Marketplace and insert it.
+### Inserting Custom Blocks
 
 <!-- Screenshot: Block insertion interface -->
 
-### Switching Editor Mode
+You can also embed custom blocks you made, or by other users, into your articles. This can be done by selecting "Custom blocks" from the editor menu, then selecting the custom block you want to insert.
 
-There are three modes of the editor. You can switch between them to suit your preferences.
+### Switch Editors
 
-- **Modern:** A visual editor that allows you to edit as you see it, it's WYSIWYG or What You See Is What You Get. This is dhe default editor.
+There are three editors available you can switch to on-the-fly without disrupting your content format:
+
+- **Modern:** A visual editor that allows you to edit as you see it, it is similar to WYSIWYG editors.
 - **Classic:** A traditional editor.
-- **Markdown:** A basic Markdown editor. (Beta)
+- **Markdown:** A basic Markdown editor. (Currently in beta.)
 
-### Sidebar: Outline View
+For both the "Modern" and "Classic" editors, typing a `/` (forward-slash) on a new line will open a vertical toolbar.
 
-When your article gets quite long, opening the Outline (Table of Contents) panel allows you to continue writing whilst checking the structure of your headings.
+### Left Sidebar: Outline View
 
-## Setting a Cover Image
+When your article gets quite long, opening the Outline (Table of Contents) panel allows you to easily check the structure of your sections or headings.
 
-You can set a cover image, which acts as the 'face' of your article.
-It is displayed in the article list, the main page of mochott, and when shared on social media, we recommend setting one.
+### Add A Cover Image
 
 <!-- Screenshot: Setting a cover image -->
 
-## Setting a Category and Tags
+A cover image is what used to be called "featured image", it serves as the article header and is visible in article lists and when it is shared in social media platforms. It is advisable to always add a cover image, otherwise, a generic mochott cover image will be used.
 
-Assigning categories and tags to your posts makes it easier for readers to find them.
-
-- **Category**: Select from a list of predefined categories.
-- **Tags**: You can add any keywords you like and assign multiple tags.
+### Setting A Category and Tags
 
 <!-- Screenshot: Categories and tags settings screen -->
 
-## Setting the Slug (URL)
+Assigning a category and adding tags to your articles makes it easier for readers to find them.
 
-You can specify the ending part of the post URL (the slug) yourself. For example, if you set the slug to `my-first-post`, the post URL will be `mochott.com/your-handle/my-first-post`. If you do not set it, a randomly generated slug will be assigned automatically.
+- **Category:** Select from a list of predefined categories.
+- **Tags:** Add as many tags that defines what your article is about (not its categories).
+
+### Add A Custom Article Slug
+
+When articles are published, the last part of an article's URL is called a slug:
+
+- `mochott.site/your-minisite/article-slug/`
+- `mochott.site/your-handle/article-slug`
+- `blog.example.com/article-slug`
+
+You can safely leave this blank and let the system randomly generate a slug like `ghLrmbsLuUr` or set a custom one like `my-first-post`.
+
+It is advisable to set a custom article slug as it can help surfacing your article in search engine results.
 
 ## Publish an article
 
