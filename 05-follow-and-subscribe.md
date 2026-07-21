@@ -29,7 +29,7 @@ You will receive a notification when an author you follow publishes a new articl
 
 You can view the notifications and notification settings on the "Notifications" pop-up by clicking the bell icon at the top-right area of the mochott website.
 
-The notifications and notification settings can also be viewed conveniently from your dashboard page ([mochott.site/dashboard/notifications]).(https://mochott.site/dashboard/notifications).
+The notifications and notification settings can also be viewed conveniently from your dashboard page ([mochott.site/dashboard/notifications](https://mochott.site/dashboard/notifications)).
 
 ![A screenshot of the mochott notification dashboard page showing the notification settings and a notification.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-notifications-02.png "The mochott notifications section and settings from the dashboard view.")
 
