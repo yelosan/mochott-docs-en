@@ -6,7 +6,7 @@
 
 Simply open the profile page of the author you wish to follow and click the 'Follow' button.
 
-![A screenshot of the mochott author page with the author avatar, description, ATmosphere handle, links, and 'Follow' button visible.](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=images/mochott-author-follow-01.png&ref=main&repo=did:plc:henromw7exy7zfpujzlve4je "The 'Follow' button on the mochott author page.")
+![A screenshot of the mochott author page with the author avatar, description, ATmosphere handle, links, and 'Follow' button visible.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-author-follow-01.png "The 'Follow' button on the mochott author page.")
 
 ## Reading Articles on the Feed page
 
@@ -17,15 +17,15 @@ Articles from authors you follow are displayed on the "Feed" page. The Feed page
 - **standard.site:** Only articles from authors you follow with Standard.site-compliant articles.
 
 <!-- Screenshot: Feed screen and filters -->
-![A screenshot of the mochott 'Feed' page displaying the 'All', 'mochott', and 'standard.site' filters as tabs.](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=images/mochott-feed-01.png&ref=main&repo=did:plc:henromw7exy7zfpujzlve4je "The mochott 'Feed' page with the 'All', 'mochott', and 'standard.site' filters as tabs.")
+![A screenshot of the mochott 'Feed' page displaying the 'All', 'mochott', and 'standard.site' filters as tabs.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-feed-01.png "The mochott 'Feed' page with the 'All', 'mochott', and 'standard.site' filters as tabs.")
 
 ## Receiving notifications
 
 You will receive a notification when an author you follow publishes a new article. You can view the notifications and notification settings on the "Notifications" pop-up by clicking the bell icon at the top-right area of the mochott website. The notifications and notification settings can also be viewed conveniently from your dashboard page ([mochott.site/dashboard/notifications](https://mochott.site/dashboard/notifications).
 
-![A screenshot focused on the mochott notification area showing the notification settings and a notification.](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=images/mochott-notifications-01.png&ref=main&repo=did:plc:henromw7exy7zfpujzlve4je "The mochott notifications section and settings from the bell pop-up.")
+![A screenshot focused on the mochott notification area showing the notification settings and a notification.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-notifications-01.png "The mochott notifications section and settings from the bell pop-up.")
 
-![A screenshot of the mochott notification dashboard page showing the notification settings and a notification.](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=images/mochott-notifications-02.png&ref=main&repo=did:plc:henromw7exy7zfpujzlve4je "The mochott notifications section and settings from the dashboard view.")
+![A screenshot of the mochott notification dashboard page showing the notification settings and a notification.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-notifications-02.png "The mochott notifications section and settings from the dashboard view.")
 
 The following notifications are enabled by default and can be toggled-off:
 
@@ -38,7 +38,7 @@ The following notifications are enabled by default and can be toggled-off:
 
 On your "Subscriptions" page ([mochott.site/dashboard/subscriptions](https://mochott.site/dashboard/subscriptions)), you can view and manage who you follow and list your followers.
 
-![A screenshot of the mochott 'Subscriptions' page where the 'Following' and 'Followers' lists are displayed on two separate tabs.](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=images/mochott-subscriptions-01.png&ref=main&repo=did:plc:henromw7exy7zfpujzlve4je "The 'Subscriptions' page where 'Following' and 'Followers' are listed.")
+![A screenshot of the mochott 'Subscriptions' page where the 'Following' and 'Followers' lists are displayed on two separate tabs.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-subscriptions-01.png "The 'Subscriptions' page where 'Following' and 'Followers' are listed.")
 
 ## Next Step
 
