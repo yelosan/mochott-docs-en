@@ -34,6 +34,8 @@ If you select `standard.site` on the menu ([mochott.site/standard-site](https://
 
 ![A screenshot of mochott focused on the menu with the standard.site option.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-standard_site-01.png "The mochott upper-left menu with the standard.site option.")
 
+![A screenshot of the mochott standard.site discovery page.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-standard_site-02.png "The mochott standard.site discovery page.")
+
 And if you want to only view Standard.site articles from authors you follow, you can do this on the Feed page and selecting the `standard.site` tab ([mochott.site/feed?filter=network](https://mochott.site/feed?filter=network)).
 
 ![A screenshot of mochott's Feed page showing the standard.site tab.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-feed-standard_site-01.png "The mochott Feed page with the standard.site tab selected.")
