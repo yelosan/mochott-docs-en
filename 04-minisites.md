@@ -1,14 +1,14 @@
-# Creating a Minisite
+# Creating Minisites
 
-## What is a Minisite?
+## What Is A Minisite
 
-A **mochott** minisite is a feature that allows you to group and publish articles by topic. It can be a "Travel Journal", "Technology Blog", or "Recipe collection".
+A **mochott** minisite is a feature that allows you to group and publish articles by topic. It can be a "Travel Journal", "Technology Blog", or "Recipe collection", or anything you can think of.
 
-Without an assigned minisite, articles are published directly under an account's author profile (`mochott.site/your-handle/`). Different topics are listed together and this can be confusing for some of your readers.
+Without an assigned minisite, articles are published directly under an account's author profile (`mochott.site/your-handle/`). Different topics are listed together and this might be confusing for some of your readers.
 
-By creating a minisite and assigning articles into it, the articles are then viewable per topic (`mochott.site/minisite-slug/` or `minisite.your-domain.xyz`). It is neater and more organized.
+By creating a minisite and assigning articles into it, the articles are then viewable per topic or blog (`mochott.site/minisite-slug/` or `minisite.your-domain.xyz`). It is neater and more organized.
 
-## Creating a Minisite
+## Creating Minisites
 
 ![A screenshot of the mochott minisite dashboard listing the minisites created by the user.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-01.png "The mochott minisite dashboard.")
 
@@ -20,7 +20,7 @@ By creating a minisite and assigning articles into it, the articles are then vie
 
 ![A screenshot of the mochott minisite creation page for the 'Basic Information' section.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-02.png "Creating a Minisite: Basic Information")
 
-- **Site Name:** The title of the minisite (e.g. Travel Blog, Cooking Recipes).
+- **Site Name:** The title of the minisite ("Travel Blog", "Cooking Recipes").
 - **URL Type:** How you would like to access your minisite (see URL Settings below). 
 - **Description:** Enter a description of the minisite.
 - **Icon:** You can set an icon for your minisite. (soon)
@@ -43,21 +43,21 @@ You can also customize the appearance of your minisite.
 - **Design Type:** Choose a layout from Blog, Documentation, or Portfolio.
 - **Color Settings:** You can change the main color, background color, and accent color.
 
-## Setting a custom domain
+## Setting A Custom Domain
 
 ![A screenshot of the mochott minisite management page focused on the 'Custom Domain' section.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-06.png "Creating a Minisite: Setting up a custom domain")
 
-Minisites can be assigned a custom domain like `reviews.your-domain.xyz` or `blog.your-domain.pink`. A minisite with a custom domain acts as a separate wibsite than the mochott system, and this has advantages in search engine ranking aside from looking more professional and truly under your own personal brand.
+Minisites can be assigned a custom domain like `reviews.your-domain.xyz` or `blog.your-domain.pink`. A minisite with a custom domain acts as a separate website than the mochott system, and this has advantages in search engine ranking aside from looking more professional and truly under your own personal brand.
 
-## Adding articles to your minisite
+## Adding Articles On Minisites
 
-There are two ways to add articles to your minisite.
+There are two ways to add articles on your new minisite.
 
-### Assign a minisite during draft
+### Assign A Minisite During Draft
 
-When writing an article in the editor, you can assign a minisite before publishing it. This will immediately add the article to that minisite when published.
+In the article editor, you can assign a minisite before publishing it. This will immediately add the article to that minisite when published.
 
-### Move after publication
+### Assign/Move After Publishing
 
 Articles can also be moved to a minisite after it was published. Simply edit and update the article to assign a new minisite. 
 
