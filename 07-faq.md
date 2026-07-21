@@ -1,24 +1,24 @@
 # Frequently Asked Questions
 
-## About Accounts
+## Accounts
 
 ### Q: Does it cost anything to use mochott?
 
-**Mochott** is free to use. All basic features—such as creating an account, posting articles, and following other authors—are free of charge. Please note that we plan to offer paid plans in the future, and there may be plan-specific limits on the number of drafts or minisites you can create.
+**Mochott** is free to use. All basic features—such as creating an account, posting articles, and following other authors—are free of charge. Please note that we plan to offer paid plans in the future, and there may be plan-specific limits on the number of drafts or minisites that can created.
 
 ### Q: Do I need a Bluesky account to use it?
 
-You do not need a Bluesky account. You can create a **[tokimeki.social](https://tokimeki.social)** account from the mochott homepage and start blogging immediately. Of course, if you already have a Bluesky account, you can use it by simply logging in.
+A Bluesky account (`handle.bsky.social` via bsky.app) is not required. You can create a **[tokimeki.social](https://tokimeki.social)** account from the mochott homepage and start blogging immediately. Of course, if you already have a Bluesky account, you can use it by simply logging in.
 
 ### Q: Are followers and articles on mochott separate from those on Bluesky?
 
 Yes, those are separate. Articles and follow relationships on mochott do not appear on your Bluesky. Although you use the same account, the services are independent of each another.
 
-### Q: I forgot my password!
+### Q: Help! I forgot my password!
 
-Mochott itself has no password. Login is done through AT Protocol authentication system. Please reset your password on the server where you created your account (such as [tokimeki.social](https://tokimeki.social), [eurosky.social](https://eurosky.social), or [bsky.app](https://bsky.app)).
+Mochott itself has no password. Login is done through the AT Protocol authentication system. Please reset your password on the server where you created your account (such as [tokimeki.social](https://tokimeki.social), [eurosky.social](https://eurosky.social), or [bsky.app](https://bsky.app)).
 
-## About Articles
+## Articles
 
 ### Q: Is there a character limit for articles?
 
@@ -26,31 +26,31 @@ An article can have up to 100,000 characters and the article title up to 500. It
 
 ### Q: Can I delete an article?
 
-Yes. You can delete an article from the article list on your dashboard.
+Absolutely! You can delete an article from the article list on your dashboard.
 
 ### Q: Can I revert a published article to a draft?
 
-Yes. You can unpublish a published article which reverts it to a draft. Simply edit the article and then click the "Revert to draft" button. 
+That is easy. Simply edit the article and then click the "Revert to draft" button. 
 
 ### Q: Can I choose a custom article URL?
 
-Yes. You can freely set the slug (an article's unique URL) in the editor.
+Yes, of course. You can set the slug (an article's unique URL) in the article editor.
 
-## About Minisites
+## Minisites
 
 ### Q: How many minisites can I create?
 
-You can create multiple minisites as you see fit for your content.
+You can create multiple minisites as you see fit for your content. As noted earlier, once paid plans are introduced, a limit might be introduced for the free tier.
 
 ### Q: Can I include an article on multiple minisites?
 
-No. An article can only be assigned into one minisite. If you want the same content to be in multiple minisites, you will have to duplicate it and have unique article slugs.
+No. An article can only be assigned into one minisite. If you want the same content to be in multiple minisites, you need to duplicate it and have unique article slugs. This is not advisable as search engines often penalize websites with duplicate content.
 
 ### Q: I don't know how to set up a custom domain
 
-Enter your domain in the minisite settings screen, then configure the DNS records on your domain provider's interface. Please refer to [Creating a Minisite](minisites) page for detailed instructions.
+Enter your domain in the minisite settings screen, then configure the DNS records on your domain provider's interface. Please refer to the [Creating Minisites](minisites) page for detailed instructions.
 
-## About Data
+## Data
 
 ### Q: What happens to my content if I stop using mochott?
 
@@ -64,11 +64,11 @@ As your content data is stored on your account provider's servers (PDS), it is a
 
 ### Q: Which browsers are supported?
 
-Any current modern browsers are supported like Mozilla Firefox, Navir Whale, Via, Safari, Vivaldi, and Microsoft Edge, to mention few.
+Any current modern browsers are supported like Mozilla Firefox, Naver Whale, Via, Safari, Vivaldi, and Microsoft Edge, to mention few.
 
 ### Q: Can I use it on a smartphone?
 
-Yes. You can access mochott via your smartphone's browser to view and post articles.
+Yes. You can access mochott via your smartphone's browser to view and publish new articles.
 
 ### Q: Where can file a bug report or submit suggestions?
 
