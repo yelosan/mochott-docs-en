@@ -50,13 +50,13 @@ You can log-in to mochott using your existing ATmosphere account. Here is how:
 
 <!-- Screenshot: Handle input screen -->
 
-3. Click the "Login" button authenticate/authorize your mochott login from your account provider's authentication page.
+3. Click the "Login" button to authenticate/authorize your mochott login from your account provider's authentication page.
 4. After authenticating/authorizing your mochott login, you will be redirected back to mochott.
 
 <!-- Screenshot: Bluesky Authorization Screen -->
 
-## Next Steps
+## Next Step
 
-Once your account is set up, why not try writing an article straight away?
+Now that you have successfully logged into mochott, it is time to write and publish your first article!
 
 → **[Writing & Publishing Articles](writing-articles)**
