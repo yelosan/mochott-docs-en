@@ -10,7 +10,7 @@ By creating a minisite and assigning articles into it, the articles are then vie
 
 ## Creating Minisites
 
-![A screenshot of the mochott minisite dashboard listing the minisites created by the user.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-01.png "The mochott minisite dashboard.")
+![A screenshot of the mochott minisite dashboard listing the minisites created by the user.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-01.png "The mochott minisite dashboard.")
 
 1. Select "Minisites" from your dashboard mene.
 2. Click the "Create Minisite" button.
@@ -18,7 +18,7 @@ By creating a minisite and assigning articles into it, the articles are then vie
 
 ### Basic Information
 
-![A screenshot of the mochott minisite creation page for the 'Basic Information' section.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-02.png "Creating a Minisite: Basic Information")
+![A screenshot of the mochott minisite creation page for the 'Basic Information' section.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-02.png "Creating a Minisite: Basic Information")
 
 - **Site Name:** The title of the minisite ("Travel Blog", "Cooking Recipes").
 - **URL Type:** How you would like to access your minisite (see URL Settings below). 
@@ -27,16 +27,16 @@ By creating a minisite and assigning articles into it, the articles are then vie
 
 #### URL Settings
 
-![A screenshot of the mochott minisite creation page showing the 'Standard Slug' option.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-04.png "Creating a Minisite: Standard Slug")
+![A screenshot of the mochott minisite creation page showing the 'Standard Slug' option.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-04.png "Creating a Minisite: Standard Slug")
 
 - (Standard) **Slug:** This forms part of the minisite's URL (`mochott.com/your-handle/s/travel`). It must be unique under `your-handle`'s namespace.
 - (Global) **Slug:** You can set a short URL (`mochott.com/travel`). It must be unique in the mochott system.
 
-![A screenshot of the mochott minisite creation page showing the 'Global Slug' option.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-05.png "Creating a Minisite: Global Slug")
+![A screenshot of the mochott minisite creation page showing the 'Global Slug' option.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-05.png "Creating a Minisite: Global Slug")
 
 ### Design
 
-![A screenshot of the mochott minisite creation page showing the layout options and color settings.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-03.png "Creating a Minisite: Layout options and Color Settings")
+![A screenshot of the mochott minisite creation page showing the layout options and color settings.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-03.png "Creating a Minisite: Layout options and Color Settings")
 
 You can also customize the appearance of your minisite.
 
@@ -45,7 +45,7 @@ You can also customize the appearance of your minisite.
 
 ## Setting A Custom Domain
 
-![A screenshot of the mochott minisite management page focused on the 'Custom Domain' section.](https://tangled.org/sera.is.youronly.one/mochott-docs-en/raw/main/images/mochott-minisite-06.png "Creating a Minisite: Setting up a custom domain")
+![A screenshot of the mochott minisite management page focused on the 'Custom Domain' section.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-06.png "Creating a Minisite: Setting up a custom domain")
 
 Minisites can be assigned a custom domain like `reviews.your-domain.xyz` or `blog.your-domain.pink`. A minisite with a custom domain acts as a separate website than the mochott system, and this has advantages in search engine ranking aside from looking more professional and truly under your own personal brand.
 
