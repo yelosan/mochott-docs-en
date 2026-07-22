@@ -1,39 +1,45 @@
-# Getting Started (Account Registration and Login)
+# Getting Started
 
-To use mochott, you need an AT Protocol account. If you already have a Bluesky account, you can log in straight away. If you don't have an account, you can easily create one from mochott.
+To use **mochott**, you need an ATmosphere account. If you already have a Bluesky ATmosphere account (`username.bsky.social` from bsky.app), you can log in straight away. Otherwise, you can create a new account on any open ATmosphere account providers.
 
-## If you don't have an account
+## Create a new ATmosphere account
 
-### Create an account on tokimeki.social
+There are many ATmosphere account providers available. These account providers host all the AT Proto data that will be stored on your account, such as your new blogs, articles, and author profile.
 
-On mochott, you can create an account on the tokimeki.social server straight away.
+You can create a new ATmosphere account in one of these account providers:
 
-1. Click the "Login" button in the upper right corner of the mochott front page.
+- [TOKIMEKI](https://tokimeki.social/account) (`username.tokimeki.social`): see instructions below
+- [Booksky](https://pds.booksky.app) (`username.booksky.app`)
+- [Eurosky](https://eurosky.social) (`username.eurosky.social`): hosted within the EU
+- [Selfhosted](https://selfhosted.social) (`username.selfhosted.social`): hosted in the USA
+- [Sprk](https://pds.sprk.so/account) (`username.sprk.so`)
+- [Teal](https://teal.town/account) (`username.teal.town`)
+- [Tophhie](https://pds.tophhie.cloud/account) (`username.tophhie.social`): hosted in the UK
+- [Bluesky](https://bsky.app) (`username.bsky.social`): flagship; hosted in the USA
 
-<!-- Screenshot: Log-in button on the homepage -->
+### tokimeki.social
+
+On the mochott website:
+
+1. Click the "Login" button
 
 2. At the bottom of the login screen, click the new registration link for those who do not have an account.
 
-<!-- Screenshot: Link at the bottom of the log-in modal -->
+3. Click "Sign up" then the "Create account on tokimeki.social" button
 
-3. Click the Create an Account with tokimeki.social button.
-
-<!-- Screenshot: Sign-up guide modal -->
-
-4. You will be taken to the tokimeki.social registration screen, where you should enter the following:
-   - **Username**: Enter any name you like. This will become your handle (e.g. 'yourname.tokimeki.social').
-   - **Email address**: A verification email will be sent to this address.
+4. You will be taken to the tokimeki.social registration page, fill in the following:
+   - **Username:** This will become part of your handle (`username.tokimeki.social`).
+   - **Email address:** A verification email will be sent to this address.
    - **Password**: Set a secure password.
+   - **Invitation code:** Currently, an invitation code is required to create a new account.
 
-<!-- Screenshot: tokimeki.social registration screen -->
+5. After registration, you will be taken back to mochott.
 
-5. Once registered, you will be automatically redirected back to mochott, where you will be logged in.
+You can now login to mochott to write and publish new articles.
 
-The account creation is now complete. You can start writing an article immediately.
+#### What is tokimeki.social?
 
-### What is tokimeki.social?
-
-tokimeki.social is one of the servers that supports the AT Protocol. The account you created here can be used not only on mochott but also on other AT Protocol-compatible services, such as Bluesky.
+**tokimeki.social** is one of the many ATmosphere account providers that supports the AT Protocol. The account you created can be used on any services connected to the ATmosphere network such as the social media client [TOKIMEKI](https://tokimeki.blue) and the blog reader [Standard Reader](https://standard-reader.app).
 
 ## If you already have a Bluesky account
 
