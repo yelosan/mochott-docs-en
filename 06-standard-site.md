@@ -1,6 +1,6 @@
 # What is Standard.site
 
-**Mochott** is **[Standard.site](https://standard.site)** compliant. This means that articles written on mochott can be discovered, displayed, and read, on other Standard.site-compliant applications, such as [Standard Reader](https://standard-reader.app).
+**Mochott** is [Standard.site](https://standard.site) compliant. This means that articles written on mochott can be discovered, displayed, and read, on other Standard.site-compliant applications, such as [Standard Reader](https://standard-reader.app).
 
 Think of syndication feeds ("Atom" web standard, and the old "RSS" specification). A website can be subscribed to and read on other platforms through the syndication feed system. Standard.site is similar, it provides a universal way to store your content into your ATmosphere account which can be read by other Standard.site-compliant applications. Giving you, the author, access to the wider ATmosphere network and community.
 
@@ -15,7 +15,7 @@ Benefits of Standard.site:
 
 ## The AT Protocol and Standard.site
 
-Standard.site is a standardized set of "rules" for long-form publishing, or blogs, built on top of the **AT Protocol**.
+Standard.site is a standardized set of "rules" for long-form publishing, or blogs, built on top of the AT Protocol.
 
 - **AT Protocol:** The underlying technology for data exchange. Bluesky also uses this technology.
 - **Standard.site:** A common format defined on top of the AT Protocol that specifies how blog articles should be recorded on and read from the AT Protocol.
