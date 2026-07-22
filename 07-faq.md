@@ -1,14 +1,16 @@
 # Frequently Asked Questions
 
-## Accounts
+## Account
 
 ### Q: Does it cost anything to use mochott?
 
 **Mochott** is free to use. All basic features—such as creating an account, posting articles, and following other authors—are free of charge. Please note that we plan to offer paid plans in the future, and there may be plan-specific limits on the number of drafts or minisites that can created.
 
-### Q: Do I need a Bluesky account to use it?
+### Q: Do I need a Bluesky account to use mochott?
 
-A Bluesky account (`account-name.bsky.social` from bsky.app) is not required. You can create a **[tokimeki.social](https://tokimeki.social)** account (`account-name.tokimeki.social`) from the mochott homepage and start blogging immediately. Of course, if you already have a Bluesky account, you can use it by simply logging in.
+A Bluesky account is not required. You can create a new, or use an existing, ATmosphere account hosted on any account providers, like **tokimeki.social**, eurosky.social, tophhie.social, and selfhosted.social, to mention a few.
+
+For more information, please refer to [Getting Started](getting-started).
 
 ### Q: Are followers and articles on mochott separate from those on Bluesky?
 
@@ -16,7 +18,7 @@ Yes, those are separate. Articles and follow relationships on mochott do not app
 
 ### Q: Help! I forgot my password!
 
-Mochott itself has no password. Login is done through the AT Protocol authentication system. Please reset your password on the server where you created your account (such as [tokimeki.social](https://tokimeki.social), [eurosky.social](https://eurosky.social), or [bsky.app](https://bsky.app)).
+Mochott itself has no password. Login is done through the AT Protocol authentication system. You can reset your password on your account provider's website, such as [TOKIMEKI](https://tokimeki.social/account), [Eurosky](https://eurosky.social/account), [Tophhie](https://tophhie.social/account), or [Bluesky](https://bsky.app).
 
 ## Articles
 
@@ -48,7 +50,7 @@ No. An article can only be assigned into one minisite. If you want the same cont
 
 ### Q: I don't know how to set up a custom domain
 
-Enter your domain in the minisite settings screen, then configure the DNS records on your domain provider's interface. Please refer to the [Creating Minisites](minisites) page for detailed instructions.
+Enter your domain in the minisite settings screen, then configure the DNS records on your domain provider's interface. Please refer to [Creating Minisites](minisites) for detailed instructions.
 
 ## Data
 
