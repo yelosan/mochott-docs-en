@@ -6,7 +6,7 @@
 
 Simply click the "New Post" button on the dashboard to start a new article draft.
 
-### Title and Description
+### Title & Description
 
 <!-- Screenshot: Title and description input fields -->
 
@@ -70,7 +70,7 @@ When your article gets quite long, opening the Outline (Table of Contents) panel
 
 A cover image is what used to be called "featured image", it serves as the article header and is visible in article lists and when it is shared in social media platforms. It is advisable to always add a cover image, otherwise, a generic mochott cover image will be used.
 
-### Meta: Setting A Category and Tags
+### Meta: Setting A Category & Tags
 
 <!-- Screenshot: Categories and tags settings screen -->
 
