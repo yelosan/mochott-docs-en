@@ -8,7 +8,7 @@
 
 ### Q: Do I need a Bluesky account to use it?
 
-A Bluesky account (`handle.bsky.social` via bsky.app) is not required. You can create a **[tokimeki.social](https://tokimeki.social)** account from the mochott homepage and start blogging immediately. Of course, if you already have a Bluesky account, you can use it by simply logging in.
+A Bluesky account (`account-name.bsky.social` from bsky.app) is not required. You can create a **[tokimeki.social](https://tokimeki.social)** account (`account-name.tokimeki.social`) from the mochott homepage and start blogging immediately. Of course, if you already have a Bluesky account, you can use it by simply logging in.
 
 ### Q: Are followers and articles on mochott separate from those on Bluesky?
 
@@ -54,7 +54,7 @@ Enter your domain in the minisite settings screen, then configure the DNS record
 
 ### Q: What happens to my content if I stop using mochott?
 
-Your articles are stored in your ATmosphere account provider (PDS). Even if you stop using mochott, your data will remain in your account. You can continue publishing new articles by using another service that supports **[Standard.site](https://standard.site)**.
+Your articles are stored in your ATmosphere account provider (PDS). Even if you stop using mochott, your data will remain in your account. You can continue publishing new articles by using another service that supports [Standard.site](https://standard.site).
 
 ### Q: Can I backup my content?
 
