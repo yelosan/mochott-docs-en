@@ -85,7 +85,7 @@ When articles are published, the last part of an article's URL is called a slug:
 
 - `mochott.site/your-minisite/article-slug/`
 - `mochott.site/your-handle/article-slug`
-- `blog.example.com/article-slug`
+- `your-minisite.your-domain.top/article-slug`
 
 You can safely leave this blank and let the system randomly generate a slug like `ghLrmbsLuUr` or set a custom one like `my-first-post`.
 
