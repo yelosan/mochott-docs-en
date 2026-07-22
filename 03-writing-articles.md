@@ -60,7 +60,7 @@ There are three editors available you can switch to on-the-fly without disruptin
 
 For both the "Modern" and "Classic" editors, typing a `/` (forward-slash) on a new line will open a vertical toolbar.
 
-### Left Sidebar: Outline View
+### Editing: Outline View
 
 When your article gets quite long, opening the Outline (Table of Contents) panel allows you to easily check the structure of your sections or headings.
 
@@ -97,25 +97,33 @@ You can set content warnings (content advisory notices) depending on the content
 
 ## Publishing An Article
 
-Once you have finished writing your article, click the 'Publish' button. Published articles will appear on your profile page and in your feed.
+Once you are ready to publish a new article, click the "Publish" button and your new article will be visible on:
 
-<!-- Screenshot: Publish button -->
+- the mochott frontpage
+- listed under the mochott category you have chosen
+- listed under the tags you have added
+- will appear on your author profile page
+- will show up in the feed of your followers
+- will be available for the wider Standard.site blog network
 
-### Save as Draft
+<!-- Screenshot: Publish and Save Draft buttons -->
 
-If you do not wish to publish your post just yet, you can select 'Save Draft'. You can edit or publish your draft at any time from the dashboard.
-Furthermore, your work is automatically saved while you are editing, so you don't have to worry if you accidentally closed your browser while editing.
+### Save As Draft
 
-### Scheduled Posts
+However, if your article is not yet ready for publication, you can click the "Save Draft" button. You can return to your draft article at anytime to finish and polish it until it is ready to go public. In addition to manually saving it as draft, mochott is also automatically saving drafts whenever it detects any changes. Thus, if the browser closed, rest assured that your most recent edit was saved.
 
-If you select 'Schedule for a specific date and time', the post will be published automatically at the specified time. This is useful when you have prepared an article in advance and wish to publish it at a specific time.
+### Scheduling
 
-### Editing Published Posts
+<!-- Screenshot of schedule button and interface -->
 
-You can re-edit a published post by clicking on it in the post list on the dashboard. As the edit history is saved, you can revert to previous versions.
+Mochott also have a post scheduling feature. Simply click the "Schedule" button on the right side of "Publish" and the scheduling you will be able to choose a date and time to automatically publish your new article. This is very useful if you already finished multiple articles as you can automatically spread the publication strategically.
+
+### Editing Published Articles
+
+If you wish to update your published article, go to your dashboard and click the edit icon for the article you wish to update. An edit history is recorded by mochott which allow authors to revert to a previous version if needed.
 
 ## Next Step
 
-Once you've learned how to write articles, why not organize them on a minisite?
+Now that you know how to write and publish articles, it is time to learn mochott's minisites feature.
 
-→ **[Create a mini-site](minisites)**
+→ **[Create Minisites](minisites)**
