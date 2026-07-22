@@ -58,7 +58,7 @@ There are three editors available you can switch to on-the-fly without disruptin
 - **Classic:** A traditional editor.
 - **Markdown:** A basic Markdown editor. (Currently in beta.)
 
-For both the "Modern" and "Classic" editors, typing a `/` (forward-slash) on a new line will open a vertical toolbar.
+For the "Modern" editor, typing a `/` (forward-slash) on a new line will open a vertical toolbar. While for the "Classic" editor, clicking on the `+` (plus) icon on a new line opens the same vertical menu.
 
 ### Editing: Outline View
 
