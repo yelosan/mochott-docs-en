@@ -37,7 +37,7 @@ On the mochott website:
 
 You can now login to mochott to write and publish new articles.
 
-#### What is tokimeki.social?
+#### What Is tokimeki.social?
 
 **tokimeki.social** is one of the many ATmosphere account providers that supports the AT Protocol. The account you created can be used on any services connected to the ATmosphere network such as the social media client [TOKIMEKI](https://tokimeki.blue) and the blog reader [Standard Reader](https://standard-reader.app).
 
