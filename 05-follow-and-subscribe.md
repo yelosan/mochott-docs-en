@@ -1,4 +1,4 @@
-# Follow and Subscribe
+# Follow & Subscribe
 
 **Mochott** lets you follow (subscribe) authors. If you follow them, you will be notified if they publish new articles.
 
@@ -8,7 +8,7 @@
 
 To follow an author on mochott, simply open their profile page and click the "Follow" button.
 
-## Reading Articles On The Feed page
+## Reading Articles On The Feed Page
 
 Articles from authors you follow are displayed on the "Feed" page.
 
@@ -20,7 +20,7 @@ The Feed page has the following filters:
 - **mochott:** Only articles from authors you follow on mochott.
 - **standard.site:** Only articles from authors you follow with Standard.site-compliant articles.
 
-## Receiving Notifications
+## Notifications
 
 You will receive a notification when an author you follow publishes a new article.
 
@@ -39,7 +39,7 @@ The following notifications are enabled by default and can be toggled-off:
 - New Followers
 - Comments
 
-## Managing Your Follows and Followers
+## Managing Your Follows & Followers
 
 ![A screenshot of the mochott 'Subscriptions' page where the 'Following' and 'Followers' lists are displayed on two separate tabs.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-subscriptions-01.png "The 'Subscriptions' page where 'Following' and 'Followers' are listed.")
 
@@ -49,4 +49,4 @@ On your "Subscriptions" page ([mochott.site/dashboard/subscriptions](https://moc
 
 Mochott articles are also linked to other services. If you want to know how it works, continue to the next page.
 
-→ **[What is Standard.site](standard-site)**
+→ **[What Is Standard.site](standard-site)**
