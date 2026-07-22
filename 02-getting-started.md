@@ -2,7 +2,7 @@
 
 To use **mochott**, you need an ATmosphere account. If you already have a an existing ATmosphere account, like Bluesky (`username.bsky.social` from bsky.app), you can log in straight away. Otherwise, you can create a new account on any ATmosphere account providers.
 
-## Create a new ATmosphere account
+## Create A New ATmosphere Account
 
 There are many ATmosphere account providers available. These account providers host all the AT Proto data that will be stored on your account, such as your new blogs, articles, and author profile.
 
