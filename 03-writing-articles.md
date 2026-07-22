@@ -1,4 +1,4 @@
-# Writing, Publishing Articles
+# Writing & Publishing Articles
 
 ## Writing An Article
 
