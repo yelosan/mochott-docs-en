@@ -13,7 +13,7 @@ Benefits of Standard.site:
 - Your articles can be discovered and listed on other Standard.site-compliant applications and platforms.
 - Standard.site-compliant articles published on other platforms can be discovered and listed on mochott.
 
-## The AT Protocol And Standard.site
+## The AT Protocol & Standard.site
 
 Standard.site is a standardized set of "rules" for long-form publishing, or blogs, built on top of the AT Protocol.
 
