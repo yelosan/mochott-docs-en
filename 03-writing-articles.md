@@ -12,7 +12,7 @@ Simply click the "New Post" button on the dashboard to start a new article draft
 
 First, enter the title of your article. The description (a summary of the article) is optional but amis highly advisable for search engine results and when your article is shared on social media.
 
-### Body
+### Content: Body
 
 Write your content into the main text area. While writing, if you select some text, a toolbar will appear where these text options are available:
 
@@ -25,17 +25,32 @@ Write your content into the main text area. While writing, if you select some te
 - Quotes and callouts
 - Custom blocks
 
-### Inserting Images
+### Content: Inserting Images
 
 Images can be inserted into your content. This can be done by drag-and-dropping an image to the text editor, or by clicking the image icon from the toolbar.
 
-### Inserting Custom Blocks
+### Content: Inserting More Blocks
+
+Mochott offers many built-in blocks for ease of use. There are:
+
+- Task List: a checklist block
+- Code Block: for programming snippets
+- Embed: for YouTube, Spotify, Mastodon, X (f. Twitter)
+- Table
+- Callout: info, warning, and tip admonitions
+- Toggle: collapsible section
+- Footnote
+- Math Block
+- Inline Math
+- Link Card: URL rich preview
+
+### Content: Inserting Custom Blocks
 
 <!-- Screenshot: Block insertion interface -->
 
 You can also embed custom blocks you made, or by other users, into your articles. This can be done by selecting "Custom blocks" from the editor menu, then selecting the custom block you want to insert.
 
-### Switch Editors
+### Editing: Switch Editors
 
 There are three editors available you can switch to on-the-fly without disrupting your content format:
 
@@ -55,7 +70,7 @@ When your article gets quite long, opening the Outline (Table of Contents) panel
 
 A cover image is what used to be called "featured image", it serves as the article header and is visible in article lists and when it is shared in social media platforms. It is advisable to always add a cover image, otherwise, a generic mochott cover image will be used.
 
-### Setting A Category and Tags
+### Meta: Setting A Category and Tags
 
 <!-- Screenshot: Categories and tags settings screen -->
 
@@ -64,7 +79,7 @@ Assigning a category and adding tags to your articles makes it easier for reader
 - **Category:** Select from a list of predefined categories.
 - **Tags:** Add as many tags that defines what your article is about (not its categories).
 
-### Add A Custom Article Slug
+### Meta: Add A Custom Article Slug
 
 When articles are published, the last part of an article's URL is called a slug:
 
@@ -76,7 +91,7 @@ You can safely leave this blank and let the system randomly generate a slug like
 
 It is advisable to set a custom article slug as it can help surfacing your article in search engine results.
 
-### Setting Content Warnings
+### Meta: Setting Content Warnings
 
 You can set content warnings (content advisory notices) depending on the content of your article. Please set these as necessary to ensure readers can view your articles with peace of mind.
 
