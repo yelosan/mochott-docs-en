@@ -1,4 +1,4 @@
-# What is Standard.site
+# What Is Standard.site
 
 **Mochott** is [Standard.site](https://standard.site) compliant. This means that articles written on mochott can be discovered, displayed, and read, on other Standard.site-compliant applications, such as [Standard Reader](https://standard-reader.app).
 
@@ -13,7 +13,7 @@ Benefits of Standard.site:
 - Your articles can be discovered and listed on other Standard.site-compliant applications and platforms.
 - Standard.site-compliant articles published on other platforms can be discovered and listed on mochott.
 
-## The AT Protocol and Standard.site
+## The AT Protocol And Standard.site
 
 Standard.site is a standardized set of "rules" for long-form publishing, or blogs, built on top of the AT Protocol.
 
@@ -22,13 +22,13 @@ Standard.site is a standardized set of "rules" for long-form publishing, or blog
 
 Mochott supports both.
 
-## Your Data Belongs to You
+## Your Data Belongs To You
 
 With AT Protocol, the articles you write are stored in your account provider (PDS). Mochott is just one of the services that displays that data.
 
 Even if you stop using mochott, your data will remain on your account. If you switch to another Standard.site-compatible service, you can theoretically carry your posts over as they are (it still depends if that other service reads from the AT Protocol directly or requires an import tool (which they have to develop)).
 
-## Reading Articles from Standard.site Platforms
+## Reading Articles From Standard.site Platforms
 
 If you select `standard.site` on the menu ([mochott.site/standard-site](https://mochott.site/standard-site)), you can view the articles from Standard.site-compliant services other than mochott.
 
