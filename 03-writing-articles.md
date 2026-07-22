@@ -1,6 +1,6 @@
 # Writing, Publishing Articles
 
-## Writing An article
+## Writing An Article
 
 <!-- Screenshot: ‘Create New’ button on the dashboard -->
 
@@ -76,7 +76,11 @@ You can safely leave this blank and let the system randomly generate a slug like
 
 It is advisable to set a custom article slug as it can help surfacing your article in search engine results.
 
-## Publish an article
+### Setting Content Warnings
+
+You can set content warnings (content advisory notices) depending on the content of your article. Please set these as necessary to ensure readers can view your articles with peace of mind.
+
+## Publishing An Article
 
 Once you have finished writing your article, click the 'Publish' button. Published articles will appear on your profile page and in your feed.
 
@@ -91,13 +95,9 @@ Furthermore, your work is automatically saved while you are editing, so you don'
 
 If you select 'Schedule for a specific date and time', the post will be published automatically at the specified time. This is useful when you have prepared an article in advance and wish to publish it at a specific time.
 
-## Editing Published Posts
+### Editing Published Posts
 
 You can re-edit a published post by clicking on it in the post list on the dashboard. As the edit history is saved, you can revert to previous versions.
-
-## Setting Content Warnings
-
-You can set content warnings (content advisory notices) depending on the content of your article. Please set these as necessary to ensure readers can view your articles with peace of mind.
 
 ## Next Step
 
