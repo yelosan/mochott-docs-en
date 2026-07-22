@@ -57,7 +57,7 @@ There are two ways to add articles on your new minisite.
 
 In the article editor, you can assign a minisite before publishing it. This will immediately add the article to that minisite when published.
 
-### Assign/Move After Publishing
+### Move An Article After Publishing
 
 Articles can also be moved to a minisite after it was published. Simply edit and update the article to assign a new minisite. 
 
@@ -65,4 +65,4 @@ Articles can also be moved to a minisite after it was published. Simply edit and
 
 If you find an article by a user you are interested in, why not follow them?
 
-→ **[Following and Subscribing](follow-and-subscribe)**
+→ **[Following & Subscribing](follow-and-subscribe)**
