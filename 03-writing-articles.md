@@ -55,7 +55,7 @@ Here in Mochott, we want to make sure you have the best writing experience so yo
 - Classic: a familiar rich-text editor  
 - Markdown: a syntax-based editor  
 
-For our Modern editor, simply typing a forward-slash (/) on a new line will open your vertical formatting menu. If you, on the other hand, you are using our Classic editor, clicking the plus (+) icon on a new line will open the exact same menu for you.
+For our Modern editor, simply typing a forward-slash (`/`) on a new line will open your vertical formatting menu. If you, on the other hand, you are using our Classic editor, clicking the plus (`+`) icon on a new line will open the exact same menu for you.
 
 ### Editing: Outline view
 
@@ -69,26 +69,24 @@ We highly encourage you to always add a fitting cover image for your work; other
 
 ### Meta: Choosing a category and adding tags
 
-Assigning a category and adding tags to your articles makes it easier for readers to find them.
+As we mentioned before, our community and **you** are our core focus. Because we want your work to be easily discovered, we created a predefined selection of categories and gave you the full power to add your own custom tags.
 
-- **Category:** Select from a list of predefined categories.
-- **Tags:** Add as many tags that defines what your article is about (not its categories).
+- **Category:** kindly select a single category from our predefined list to best group your work within the Mochott community.
+- **Tags:** feel free to add multiple keywords that accurately define your article, which is also shared with Standard.site-compatible apps.
 
 ### Meta: Assign a custom article slug
 
-When articles are published, the last part of an article's URL is called a slug:
+When you publish your articles, the final part of your article's URL is what we call a slug. Depending on your chosen setup, it will look like these examples:
 
+- `mochott.site/your-handle/article-slug/`
 - `mochott.site/your-minisite/article-slug/`
-- `mochott.site/your-handle/article-slug`
-- `your-minisite.your-domain.top/article-slug`
+- `your-minisite.your-domain.top/article-slug/`
 
-You can safely leave this blank and let the system randomly generate a slug like `ghLrmbsLuUr` or set a custom one like `my-first-post`.
-
-It is advisable to set a custom article slug as it can help surfacing your article in search engine results.
+You can safely leave this blank, and our system will generate a random slug for you (such as `ghLrmbsLuUr8`). However, we highly advise setting a custom slug like `my-first-post`, as this significantly helps surface your articles in search engine results.
 
 ### Meta: Setting content warnings
 
-You can set content warnings (content advisory notices) depending on the content of your article. Please set these as necessary to ensure readers can view your articles with peace of mind.
+We deeply value the comfort, safety, and peace of mind of your community, the global ATmosphere network, and the social web. To help with this, we built a system to let you easily set content warnings or advisory notices for your articles as you see fit. We kindly ask you to use this feature as necessary so your dear readers, the Mochott community, and the social web, can enjoy reading blogs with total confidence and comfort.
 
 ## Publishing a new article
 
