@@ -90,29 +90,32 @@ We deeply value the comfort, safety, and peace of mind of your community, the gl
 
 ## Publishing a new article
 
-Once you are ready to publish a new article, click the "Publish" button and your new article will be visible on:
+Once you are ready to share your work with the world, simply click the "Publish" button. Our system will immediately make your new article visible and:
 
-- the mochott frontpage
-- listed under the mochott category you have chosen
-- listed under the tags you have added
-- will appear on your author profile page
-- will show up in the feed of your followers
-- will be available for the wider Standard.site blog network
+1. showcased within the Community Directory on the front page of Mochott
+1. neatly listed under your chosen category
+1. tagged under the specific keywords you have added
+1. displayed directly on your author profile page
+1. instantly delivered to the dashboard of your loyal readers
+1. easily discovered on various Standard.site-compatible apps
+1. completely ready to be shared with your friends on other social media platforms
 
 ### Save as draft
 
-However, if your article is not yet ready for publication, you can click the "Save Draft" button. You can return to your draft article at anytime to finish and polish it until it is ready to go public. In addition to manually saving it as draft, mochott is also automatically saving drafts whenever it detects any changes. Thus, if the browser closed, rest assured that your most recent edit was saved.
+Please do not worry if your article needs a bit more polishing, you can simply click the "Save Draft" button at any time. You can always return to your unfinished works whenever inspiration strikes or until you feel completely ready to share them with the public.
+
+Aside from manual saving, our system automatically saves your drafts the moment we detect any changes. If your browser accidentally closes, please rest assured that your most recent edit is safely stored.
 
 ### Schedule a new article
 
-Mochott also have a post scheduling feature. Simply click the "Schedule" button on the right side of "Publish" and the scheduling you will be able to choose a date and time to automatically publish your new article. This is very useful if you already finished multiple articles as you can automatically spread the publication strategically.
+Mochott also offers a smart post-scheduling feature to help you manage your time. Simply click the "Schedule" button right beside "Publish" to choose the exact date and time you want your new article to be published. This is incredibly helpful if you have written multiple articles in advance, allowing you to strategically publish your new articles.
 
 ### Editing published articles
 
-If you wish to update your published article, go to your dashboard and click the edit icon for the article you wish to update. An edit history is recorded by mochott which allow authors to revert to a previous version if needed.
+If you ever need to update an article you have already published, just visit your dashboard and click the edit icon on the specific article you wish to update. We also keep an edit history for you, allowing you to revert to any previous version if you have to.
 
 ## Next step
 
-Now that you know how to write and publish articles, it is time to learn mochott's minisites feature.
+Now that you know how to write and publish articles, it is time to learn Mochott's minisite feature!
 
-→ **[Create Minisites](minisites)**
+→ **[Creating Minisites](minisites)**
