@@ -49,21 +49,23 @@ Mochott is packed with many built-in blocks to make your writing experience smoo
 
 ### Editing: Switching editors
 
-There are three editors available you can switch to on-the-fly without disrupting your content format:
+Here in Mochott, we want to make sure you have the best writing experience so you can focus on your articles. We offer three editors that you can switch to on-the-fly without disrupting your workflow:
 
-- **Modern:** A visual editor that allows you to edit as you see it, it is similar to WYSIWYG editors.
-- **Classic:** A traditional editor.
-- **Markdown:** A basic Markdown editor. (Currently in beta.)
+- Modern: a fast forward-slash (`/`) command editor  
+- Classic: a familiar rich-text editor  
+- Markdown: a syntax-based editor  
 
-For the "Modern" editor, typing a `/` (forward-slash) on a new line will open a vertical toolbar. While for the "Classic" editor, clicking the `+` (plus) icon on a new line opens the same vertical menu.
+For our Modern editor, simply typing a forward-slash (/) on a new line will open your vertical formatting menu. If you, on the other hand, you are using our Classic editor, clicking the plus (+) icon on a new line will open the exact same menu for you.
 
 ### Editing: Outline view
 
-When your article gets quite long, opening the Outline (Table of Contents) panel allows you to easily check the structure of your sections or headings.
+When your articles grow informatively long, it is crucial to review your structure. Opening our "outline" ("Table of Contents") panel allows you to easily check your headings and sections at a single glance.
 
 ### Adding a cover image
 
-A cover image is what used to be called "featured image", it serves as the article header and is visible in article lists and when it is shared in social media platforms. It is advisable to always add a cover image, otherwise, a generic mochott cover image will be used.
+Your cover image serves as your article's banner, if carefully chosen, it can help grow your readership. Cover images appear across article lists and whenever your articles are shared on social media platforms.
+
+We highly encourage you to always add a fitting cover image for your work; otherwise, a generic Mochott cover image will appear in article lists and when your article link is shared.
 
 ### Meta: Choosing a category and adding tags
 
