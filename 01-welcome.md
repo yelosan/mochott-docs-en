@@ -45,38 +45,35 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 
 ### Summary Of Features
 
-**For Authors:**
+**For Our Authors:**
 
-✅ [Distraction-free editors](writing-articles#editing-switch-editors): Modern, Classic, & Markdown  
-✅ [Minisites](minisites)  
-✅ Community Directory: article showcase on mochott's frontpage  
-✅ SEO Optimized  
-✅ [Standard.site](standard-site)-compliant: reach the global ATmosphere network  
-✅ [Custom Domains](minisites#setting-a-custom-domain)  
+✅ [Distraction-free editors](writing-articles#editing-switch-editors): choose from Modern, Classic, & Markdown editors  
+✅ [Minisites](minisites): create thematic blogs 
+✅ Community Directory: we showcase your hard work on our front page  
+✅ SEO Optimized: worry-free backend search engine optimization 
+✅ [Standard.site](standard-site)-compliant: reach and connect with the global ATmosphere network  
+✅ [Custom Domains](minisites#setting-a-custom-domain): use your own domain for your blogs  
 ✅ [Custom Blocks](writing-articles#content-inserting-custom-blocks)  
 ✅ Analytics  
 
-**For Readers:**
+**For Your Readers:**
 
-✅ [Standard.site Stream](standard-site#reading-articles-from-standardsite-platforms)  
+✅ [Standard.site Stream](standard-site#reading-articles-from-standardsite-platforms): discover new authors and blogs across the ATmosphere network  
 ✅ [Follow & Subscribe](follow-and-subscribe) Authors/Publications  
-✅ Blazingly Fast  
-✅ Lightweight & Content-first Design  
-✅ Likes, Bookmarks, Comments
+✅ Blazingly Fast: articles load instantly for stress-free reading 
+✅ Lightweight & Content-first Design: distraction-free reading  
+✅ Social Interaction: express your appreciation through likes, bookmark an article to read it again later, and connect with the author by leaving comments
 
-### Likes, Bookmarks, & Comments
+## Mochott Is Recommended For:
 
-Give a 'Like' to articles you enjoy. Save articles you'd like to read later to your 'Bookmarks'. You can also leave comments on articles to interact with the writers.
-
-## Recommended For
-
-- Anyone who wants to start a blog
-- Bluesky users who want to publish longer posts
-- Anyone who wants to manage their posts without being tied to a specific service
-- Anyone who wants to organise and publish posts by topic
+- Anyone who wants to pen down their ideas and share their thoughts
+- Social media users who wants to write more but are restricted to 300–500 characters only
+- Creators who wants full ownership of their digital content and data without being tied to a single service
+- Authors who wants to curate and publish articles on different blogs
+- Brand managers looking for an easy-to-use platform for their public communications and updates
 
 ## Next Step
 
-First, let's create an account and a blog to start using mochott.
+Are you ready to write on the mochott platform?
 
 → **[Getting Started](getting-started)**
