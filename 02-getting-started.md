@@ -1,12 +1,12 @@
 # Getting Started
 
-To use **mochott**, you need an ATmosphere account. If you already have a an existing ATmosphere account, like Bluesky (`username.bsky.social` from bsky.app), you can log in straight away. Otherwise, you can create a new account on any ATmosphere account providers.
+To begin your writing journey at **Mochott**, you will need an ATmosphere account. If you already have an existing ATmosphere account, like Bluesky (`username.bsky.social`), you can log in straight away. Otherwise, we welcome you to sign up for a new account through any of the ATmosphere account providers available below.
 
-## Create A New ATmosphere Account
+## Create a new ATmosphere account
 
-There are many ATmosphere account providers available. These account providers host all the AT Proto data that will be stored on your account, such as your new blogs, articles, and author profile.
+There are many ATmosphere account providers available today. These providers carefully host and safeguard all the AT Proto data stored on your account, including your new Mochott blogs, articles, and author profile.
 
-You can create a new ATmosphere account on one of these account providers:
+We want to help you choose the best home for your content. Thus, we listed below some of the reliable and popular account providers (as of the time of this writing):
 
 - **[TOKIMEKI](https://tokimeki.social/account)** (`username.tokimeki.social`): see instructions below
 - [Booksky](https://pds.booksky.app) (`username.booksky.app`)
@@ -17,31 +17,26 @@ You can create a new ATmosphere account on one of these account providers:
 - [Tophhie](https://pds.tophhie.cloud/account) (`username.tophhie.social`): hosted in the UK
 - [Bluesky](https://bsky.app) (`username.bsky.social`): flagship; hosted in the USA
 
-### tokimeki.social
+### Tokimeki.social
 
-On the mochott website:
+**Tokimeki.social** is a Mochott sister project. It is one of the many trusted ATmosphere account providers you can choose from today. An account created on tokimeki.social can be used on any services connected to the ATmosphere network such as the social media client [TOKIMEKI](https://tokimeki.blue) and the blog reader [Standard Reader](https://standard-reader.app).
 
+If you would like us to host your account data through tokimeki.social, all you have to do is create an account with us by following these simple steps:
+
+1. Open the [Mochott](https://mochott.site) website
 1. Click the "Login" button
+1. At the bottom of the login screen, click the "Sign up" link after "Don't have an account?"
+1. On the new pop-up window, click the "Create account on tokimeki.social" button
+1. You will be taken to the tokimeki.social registration page, fill in the following:
+   - **Username:** this will become part of your handle (`username.tokimeki.social`)
+   - **Email address:** a verification email will be sent to this address
+   - **Password**
+   - **Invitation code:** an invitation code is currently required to create a new account
+1. After registration, you will be taken back to Mochott.
 
-2. At the bottom of the login screen, click the new registration link for those who do not have an account.
+You are now ready to log in, write, and publish your works through Mochott!
 
-3. Click "Sign up" then the "Create account on tokimeki.social" button
-
-4. You will be taken to the tokimeki.social registration page, fill in the following:
-   - **Username:** This will become part of your handle (`username.tokimeki.social`).
-   - **Email address:** A verification email will be sent to this address.
-   - **Password**: Set a secure password.
-   - **Invitation code:** Currently, an invitation code is required to create a new account.
-
-5. After registration, you will be taken back to mochott.
-
-You can now login to mochott to write and publish new articles.
-
-#### What Is tokimeki.social?
-
-**tokimeki.social** is one of the many ATmosphere account providers that supports the AT Protocol. The account you created can be used on any services connected to the ATmosphere network such as the social media client [TOKIMEKI](https://tokimeki.blue) and the blog reader [Standard Reader](https://standard-reader.app).
-
-## Login With An Existing ATmosphere Account
+## Login with an existing ATmosphere account
 
 You can log-in to mochott using your existing ATmosphere account. Here is how:
 
@@ -55,7 +50,7 @@ You can log-in to mochott using your existing ATmosphere account. Here is how:
 
 <!-- Screenshot: Bluesky Authorization Screen -->
 
-## Next Step
+## Next step
 
 Now that you have successfully logged into mochott, it is time to write and publish your first article!
 
