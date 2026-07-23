@@ -8,6 +8,8 @@ Mochott is packed with great features just for you. Please take a look at some o
 
 ### Distraction-free Editors
 
+![A screenshot of Mochott's distrrction-free editing experience.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-editor-01.png "Distraction-free editing experience.")
+
 We have three editors available for you to choose from:
 
 ✅ Modern: a fast forward-slash (`/`) command editor  
@@ -20,6 +22,8 @@ See [Switch Editors](writing-articles#editing-switch-editors) to learn how easy 
 
 ### Minisites
 
+![A screenshot of the mochott minisite dashboard listing the minisites created by the user.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-01.png "The mochott minisite dashboard.")
+
 Mochott designed minisites to give authors, such as yourself, the freedom to create dedicated blogs for your specific interests and themes. Instead of mixing all your content into a single blog, you can give each topic its own website.
 
 Your readers will love this too because they can easily subscribe only to the topics they want, minimizing unsubscriptions because you started writing about topics they are not interested in.
@@ -27,6 +31,8 @@ Your readers will love this too because they can easily subscribe only to the to
 Visit our [Minisites](minisites) page to learn how to create minisites. Did we mention that you can also use your own domain per minisite?
 
 ### Community Directory
+
+![A screenshot of Mochott's front page showcasing articles.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-frontpage-showcase-01.jpg "Article showcase on Mochott's front page.")
 
 At Mochott, **YOU** always come first. We do not believe in hiding or burying your hard work behind deep menus and links. Instead, we proudly showcase your creations right on our front page. For us, a strong brand is built entirely on a loyal and vibrant community. Do you not agree?
 
@@ -44,8 +50,7 @@ We encourage reading our detailed explanation on [What Is Standard.site](standar
 
 ### Analytics
 
-<!-- Screenshot: Analytics screen -->
-![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-3)
+![A screenshot of the analytics dashboard in Japanese.](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-3 "The analytics dashboard.)
 
 Mochott helps you see how your stories resonate with your readers. Through your personalized dashboard, you can easily monitor your article views, likes, and bookmarks. By understanding which pieces your readers love the most, you can use these insights to thoughtfully plan your next articles.
 
