@@ -26,7 +26,9 @@ If you would like us to host your account data through tokimeki.social, all you 
 1. Kindly open the [Mochott](https://mochott.site) website
 1. Please click the "Login" button
 1. At the bottom of the login screen, kindly click the "Sign up" link after "Don't have an account?"
+   ![A screenshot of the Mochott login pop-up.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-login-01.png "Mochott login pop-up.")
 1. On the new pop-up window, kindly click the "Create account on tokimeki.social" button
+   ![A screenshot of the Mochott new account pop-up.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-new-account-01.png "Mochott new account pop-up.")
 1. You will be taken to the tokimeki.social registration page, please fill out the following fields:
    ![A screenshot of the tokimeki.social account registration page.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/tokimeki-account-creation-01.png "The account registration page on tokimeki.social.")
    - **Username:** this will become part of your handle (`username.tokimeki.social`)
@@ -38,6 +40,8 @@ If you would like us to host your account data through tokimeki.social, all you 
 You are now ready to log in, write, and publish your works through Mochott!
 
 ## Login with an existing ATmosphere account
+
+![A screenshot of the Mochott login pop-up.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-login-01.png "Mochott login pop-up.")
 
 If you already have an ATmosphere account, there is absolutely no need to create a new one, just log in straight away on Mochott!
 
