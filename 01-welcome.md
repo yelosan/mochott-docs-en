@@ -50,7 +50,7 @@ We encourage reading our detailed explanation on [What Is Standard.site](standar
 
 ### Analytics
 
-![A screenshot of the analytics dashboard in Japanese.](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-3 "The analytics dashboard.)
+![A screenshot of the analytics dashboard in Japanese.](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-3 "The analytics dashboard.")
 
 Mochott helps you see how your stories resonate with your readers. Through your personalized dashboard, you can easily monitor your article views, likes, and bookmarks. By understanding which pieces your readers love the most, you can use these insights to thoughtfully plan your next articles.
 
