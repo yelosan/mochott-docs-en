@@ -4,17 +4,17 @@
 
 ## Features
 
-✅ Blazingly Fast  
-✅ SEO Optimized  
-✅ Analytics  
-✅ Frontpage Community Directory  
-✅ Standard.site Stream  
 ✅ [Distraction-free editors](writing-articles#editing-switch-editors): Modern, Classic, & Markdown  
-✅ [Custom Blocks](writing-articles#content-inserting-custom-blocks)  
-✅ Lightweight [Minisites](minisites)  
+✅ [Minisites](minisites)  
+✅ Community Directory: article showcase on mochott's frontpage  
+✅ SEO Optimized  
+✅ [Standard.site](standard-site)-compliant: reach the global ATmosphere network  
 ✅ [Custom Domains](minisites#setting-a-custom-domain)  
+✅ [Custom Blocks](writing-articles#content-inserting-custom-blocks)  
+✅ [Standard.site Stream](standard-site#reading-articles-from-standardsite-platforms)  
 ✅ [Follow & Subscribe](follow-and-subscribe) Authors/Publications  
-✅ [Standard.site](standard-site)-compliant  
+✅ Blazingly Fast  
+✅ Analytics  
 ✅ Likes, Bookmarks, Comments
 
 ### Fast Load & SEO Optimized
