@@ -23,11 +23,11 @@ We want to help you choose the best home for your content. Thus, we listed below
 
 If you would like us to host your account data through tokimeki.social, all you have to do is create an account with us by following these simple steps:
 
-1. Open the [Mochott](https://mochott.site) website
-1. Click the "Login" button
-1. At the bottom of the login screen, click the "Sign up" link after "Don't have an account?"
-1. On the new pop-up window, click the "Create account on tokimeki.social" button
-1. You will be taken to the tokimeki.social registration page, fill in the following:
+1. Kindly open the [Mochott](https://mochott.site) website
+1. Please click the "Login" button
+1. At the bottom of the login screen, kindly click the "Sign up" link after "Don't have an account?"
+1. On the new pop-up window, kindly click the "Create account on tokimeki.social" button
+1. You will be taken to the tokimeki.social registration page, please fill out the following fields:
    - **Username:** this will become part of your handle (`username.tokimeki.social`)
    - **Email address:** a verification email will be sent to this address
    - **Password**
@@ -38,20 +38,15 @@ You are now ready to log in, write, and publish your works through Mochott!
 
 ## Login with an existing ATmosphere account
 
-You can log-in to mochott using your existing ATmosphere account. Here is how:
+If you already have an ATmosphere account, there is absolutely no need to create a new one, just log in straight away on Mochott!
 
-1. Click the "Login" button located at the top-right corner of the mochott website.
-2. Fill-in your handle (`username.bsky.social`; `your-domain.pink`).
-
-<!-- Screenshot: Handle input screen -->
-
-3. Click the "Login" button to authenticate/authorize your mochott login from your account provider's authentication page.
-4. After authenticating/authorizing your mochott login, you will be redirected back to mochott.
-
-<!-- Screenshot: Bluesky Authorization Screen -->
+1. Kindly click the "Login" button located at the top-right corner of the website
+1. Please fill in your handle (`username.bsky.social`; `your-domain.pink`)
+1. Click the "Login" button and you will be srfely redirected to your account provider's secure page to authorize your sign-in
+1. After a successful authentication, your account provides should redirect you back to Mochott and log you in.
 
 ## Next step
 
-Now that you have successfully logged into mochott, it is time to write and publish your first article!
+Now that you have successfully logged into Mochott, it is time to write and publish your first article!
 
 → **[Writing & Publishing Articles](writing-articles)**
