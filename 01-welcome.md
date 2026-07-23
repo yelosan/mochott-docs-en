@@ -2,11 +2,11 @@
 
 **Mochott** is a free, easy-to-use, and Standard.site-compliant blogging platform with *you* in mind. You can use our platform for your personal or brand blogs, for your project documentation, or even to build a portfolio showcasing your hard work.
 
-## Features
+## Our winning features
 
 Mochott is packed with great features just for you. Please take a look at some of the common and unique tools we offer to help you succeed in your career.
 
-### Distraction-free Editors
+### Distraction-free editors
 
 ![A screenshot of Mochott's distrrction-free editing experience.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-editor-01.png "Distraction-free editing experience.")
 
@@ -30,13 +30,13 @@ Your readers will love this too because they can easily subscribe only to the to
 
 Visit our [Minisites](minisites) page to learn how to create minisites. Did we mention that you can also use your own domain per minisite?
 
-### Community Directory
+### Community directory
 
 ![A screenshot of Mochott's front page showcasing articles.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-frontpage-showcase-01.jpg "Article showcase on Mochott's front page.")
 
 At Mochott, **YOU** always come first. We do not believe in hiding or burying your hard work behind deep menus and links. Instead, we proudly showcase your creations right on our front page. For us, a strong brand is built entirely on a loyal and vibrant community. Do you not agree?
 
-### Blazingly Fast & SEO Optimized
+### Blazingly fast & SEO optimized
 
 We are deeply committed to making your blogs load as fast as possible, giving your dear readers a truly smooth and stress-free experience. Furthermore, we optimized the backend of article pages to be highly optimized for search engines. This helps you easily attract organic traffic from search engines like Startpage, Google Search, and DuckDuckGo.
 
@@ -54,9 +54,9 @@ We encourage reading our detailed explanation on [What Is Standard.site](standar
 
 Mochott helps you see how your stories resonate with your readers. Through your personalized dashboard, you can easily monitor your article views, likes, and bookmarks. By understanding which pieces your readers love the most, you can use these insights to thoughtfully plan your next articles.
 
-### Summary of Features
+### Summary
 
-**For Our Authors:**
+**For our authors:**
 
 ✅ [Distraction-free editors](writing-articles#editing-switch-editors): choose from Modern, Classic, & Markdown editors  
 ✅ [Minisites](minisites): create thematic blogs 
@@ -67,7 +67,7 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 ✅ [Custom Blocks](writing-articles#content-inserting-custom-blocks)  
 ✅ Analytics  
 
-**For Your Readers:**
+**For your readers:**
 
 ✅ [Standard.site Stream](standard-site#reading-articles-from-standardsite-platforms): discover new authors and blogs across the ATmosphere network  
 ✅ [Follow & Subscribe](follow-and-subscribe) Authors/Publications  
@@ -75,7 +75,7 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 ✅ Lightweight & Content-first Design: distraction-free reading  
 ✅ Social Interaction: express your appreciation through likes, bookmark an article to read it again later, and connect with the author by leaving comments
 
-## Mochott is Recommended For
+## Mochott is recommended for
 
 - Anyone who wants to pen down their ideas and share their thoughts
 - Social media users who wants to write more but are restricted to 300–500 characters only
@@ -83,7 +83,7 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 - Authors who wants to curate and publish articles on different blogs
 - Brand managers looking for an easy-to-use platform for their public communications and updates
 
-## Next Step
+## Next step
 
 Are you ready to write on the Mochott platform?
 
