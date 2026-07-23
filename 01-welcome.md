@@ -1,8 +1,38 @@
 # Welcome To Mochott
 
-**Mochott** is a free blogging platform for everyone. You can share your thoughts and knowledge with the world through your posts and articles.
+**Mochott** is a free easy-to-use Standard.site-compliant blogging platform with a content-first design. You can use it as a personal or brand blog, for documentations and informational websites, or to build a portfolio showcasing your works.
 
 ## Features
+
+Mochott is feature packed. Here are some of the common and unique features we offer.
+
+### Distraction-free Editors
+
+We have three editors available for you to choose from:
+
+✅ Modern: a fast forward-slash (`/`) command editor  
+✅ Classic: a familiar rich-text editor  
+✅ Markdown: a syntax-based editor  
+
+By offering these three types of editors, we want to ensure that our dear authors, like yourself, can use the specific tool you are most comfortable with for your writing journey.
+
+See [Switch Editors](writing-articles#editing-switch-editors) to learn how easy it is to change your editor.
+
+### Minisites
+
+Mochott designed minisites to give authors, such as yourself, the freedom to create dedicated blogs for your specific interests and themes. Instead of mixing all your content into a single page, you can give each topic its own website.
+
+Your readers will love this too because they can easily subscribe only to the topics they want, minimizing unsubscriptions because you started writing about topics they are not interested in.
+
+Visit our [Minisites](minisites) to learn how to create minisites. Did we mention that you can also use your own domain per minisite?
+
+### Community Directory
+
+
+
+### Summary Of Features
+
+**For Authors:**
 
 ✅ [Distraction-free editors](writing-articles#editing-switch-editors): Modern, Classic, & Markdown  
 ✅ [Minisites](minisites)  
@@ -11,10 +41,14 @@
 ✅ [Standard.site](standard-site)-compliant: reach the global ATmosphere network  
 ✅ [Custom Domains](minisites#setting-a-custom-domain)  
 ✅ [Custom Blocks](writing-articles#content-inserting-custom-blocks)  
+✅ Analytics  
+
+**For Readers:**
+
 ✅ [Standard.site Stream](standard-site#reading-articles-from-standardsite-platforms)  
 ✅ [Follow & Subscribe](follow-and-subscribe) Authors/Publications  
 ✅ Blazingly Fast  
-✅ Analytics  
+✅ Lightweight & Content-first Design  
 ✅ Likes, Bookmarks, Comments
 
 ### Fast Load & SEO Optimized
