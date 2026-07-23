@@ -2,13 +2,9 @@
 
 ## Writing an article
 
-<!-- Screenshot: ‘Create New’ button on the dashboard -->
-
 Simply click the "New Post" button on the dashboard to start a new article draft.
 
 ### Article title and description
-
-<!-- Screenshot: Title and description input fields -->
 
 First, enter the title of your article. The description (a summary of the article) is optional but amis highly advisable for search engine results and when your article is shared on social media.
 
@@ -16,10 +12,8 @@ First, enter the title of your article. The description (a summary of the articl
 
 Write your content into the main text area. While writing, if you select some text, a toolbar will appear where these text options are available:
 
-<!-- Screenshot: Toolbar displayed -->
-
 - **Bold** and *italics*
-- Headings (H2, H3, H4)
+- Headings (h2, h3, h4, h5)
 - Bulleted and numbered lists
 - Inserting links
 - Quotes and callouts
@@ -46,8 +40,6 @@ Mochott offers many built-in blocks for ease of use. There are:
 
 ### Content: Using custom blocks
 
-<!-- Screenshot: Block insertion interface -->
-
 You can also embed custom blocks you made, or by other users, into your articles. This can be done by selecting "Custom blocks" from the editor menu, then selecting the custom block you want to insert.
 
 ### Editing: Switching editors
@@ -58,7 +50,7 @@ There are three editors available you can switch to on-the-fly without disruptin
 - **Classic:** A traditional editor.
 - **Markdown:** A basic Markdown editor. (Currently in beta.)
 
-For the "Modern" editor, typing a `/` (forward-slash) on a new line will open a vertical toolbar. While for the "Classic" editor, clicking on the `+` (plus) icon on a new line opens the same vertical menu.
+For the "Modern" editor, typing a `/` (forward-slash) on a new line will open a vertical toolbar. While for the "Classic" editor, clicking the `+` (plus) icon on a new line opens the same vertical menu.
 
 ### Editing: Outline view
 
@@ -66,20 +58,16 @@ When your article gets quite long, opening the Outline (Table of Contents) panel
 
 ### Adding a cover image
 
-<!-- Screenshot: Setting a cover image -->
-
 A cover image is what used to be called "featured image", it serves as the article header and is visible in article lists and when it is shared in social media platforms. It is advisable to always add a cover image, otherwise, a generic mochott cover image will be used.
 
-### Meta: Setting a category and tags
-
-<!-- Screenshot: Categories and tags settings screen -->
+### Meta: Choosing a category and adding tags
 
 Assigning a category and adding tags to your articles makes it easier for readers to find them.
 
 - **Category:** Select from a list of predefined categories.
 - **Tags:** Add as many tags that defines what your article is about (not its categories).
 
-### Meta: Assogn a custom article slug
+### Meta: Assign a custom article slug
 
 When articles are published, the last part of an article's URL is called a slug:
 
@@ -106,15 +94,11 @@ Once you are ready to publish a new article, click the "Publish" button and your
 - will show up in the feed of your followers
 - will be available for the wider Standard.site blog network
 
-<!-- Screenshot: Publish and Save Draft buttons -->
-
 ### Save as draft
 
 However, if your article is not yet ready for publication, you can click the "Save Draft" button. You can return to your draft article at anytime to finish and polish it until it is ready to go public. In addition to manually saving it as draft, mochott is also automatically saving drafts whenever it detects any changes. Thus, if the browser closed, rest assured that your most recent edit was saved.
 
 ### Schedule a new article
-
-<!-- Screenshot of schedule button and interface -->
 
 Mochott also have a post scheduling feature. Simply click the "Schedule" button on the right side of "Publish" and the scheduling you will be able to choose a date and time to automatically publish your new article. This is very useful if you already finished multiple articles as you can automatically spread the publication strategically.
 
