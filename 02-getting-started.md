@@ -28,6 +28,7 @@ If you would like us to host your account data through tokimeki.social, all you 
 1. At the bottom of the login screen, kindly click the "Sign up" link after "Don't have an account?"
 1. On the new pop-up window, kindly click the "Create account on tokimeki.social" button
 1. You will be taken to the tokimeki.social registration page, please fill out the following fields:
+   ![A screenshot of the tokimeki.social account registration page.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/tokimeki-account-creation-01.png "The account registration page on tokimeki.social.")
    - **Username:** this will become part of your handle (`username.tokimeki.social`)
    - **Email address:** a verification email will be sent to this address
    - **Password**
