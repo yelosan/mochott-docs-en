@@ -16,25 +16,31 @@ We have three editors available for you to choose from:
 
 By offering these three types of editors, we want to ensure that our dear authors, like yourself, can use the specific tool you are most comfortable with for your writing journey.
 
-See [Switch Editors](writing-articles#editing-switch-editors) to learn how easy it is to change your editor.
+See [Switch Editors](writing-articles#editing-switch-editors) to learn how easy it is to switch.
 
 ### Minisites
 
-Mochott designed minisites to give authors, such as yourself, the freedom to create dedicated blogs for your specific interests and themes. Instead of mixing all your content into a single page, you can give each topic its own website.
+Mochott designed minisites to give authors, such as yourself, the freedom to create dedicated blogs for your specific interests and themes. Instead of mixing all your content into a single blog, you can give each topic its own website.
 
 Your readers will love this too because they can easily subscribe only to the topics they want, minimizing unsubscriptions because you started writing about topics they are not interested in.
 
-Visit our [Minisites](minisites) to learn how to create minisites. Did we mention that you can also use your own domain per minisite?
+Visit our [Minisites](minisites) page to learn how to create minisites. Did we mention that you can also use your own domain per minisite?
 
 ### Community Directory
 
-At mochott, **YOU** always come first. We do not believe in hiding or burying your hard work behind deep menus and links. Instead, we proudly showcase your creations right on our front page. For us, a strong brand is built entirely on a loyal and vibrant community. Do you not agree?
+At Mochott, **YOU** always come first. We do not believe in hiding or burying your hard work behind deep menus and links. Instead, we proudly showcase your creations right on our front page. For us, a strong brand is built entirely on a loyal and vibrant community. Do you not agree?
 
 ### Blazingly Fast & SEO Optimized
 
 We are deeply committed to making your blogs load as fast as possible, giving your dear readers a truly smooth and stress-free experience. Furthermore, we optimized the backend of article pages to be highly optimized for search engines. This helps you easily attract organic traffic from search engines like Startpage, Google Search, and DuckDuckGo.
 
 ### Standard.site-compliant
+
+Whenever you publish a new article on Mochott, we automatically save it to your account's database. This makes your work easily discoverable by Standard.site-compatible apps and pushes your articles into the global ATmosphere network.
+
+As a special bonus, your precious content will always stay with your account. Even if you decide to switch platforms later, your ATmosphere account will always have a complete and permanent record of all your written works.
+
+We encourage reading our detailed explanation on [What Is Standard.site](standard-site) to learn more about how this protects your digital legacy and why this is an important feature you should never put aside.
 
 ### Analytics
 
@@ -74,6 +80,6 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 
 ## Next Step
 
-Are you ready to write on the mochott platform?
+Are you ready to write on the Mochott platform?
 
 → **[Getting Started](getting-started)**
