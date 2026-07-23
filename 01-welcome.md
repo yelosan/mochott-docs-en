@@ -8,7 +8,7 @@
 - SEO Optimized
 - Analytics
 - Distraction-free editors: Modern, Classic, & Markdown (see: [Writing & Publishing Articles](writing-articles))
-- Custom Blocks(see: [Writing & Publishing Articles](writing-articles))
+- Custom Blocks (see: [Writing & Publishing Articles](writing-articles))
 - Minisites (see: [Creating Minisites](minisites))
 - Follow/Subscribe to Authors and Publications (see: [Follow & Subscribe](follow-and-subscribe))
 - Standard.site-compliant (see: [What Is Standard.site](standard-site))
@@ -25,10 +25,6 @@ You can check the number of views, likes, bookmarks, etc. for each article on th
 
 <!-- Screenshot: Analytics screen -->
 ![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-3)
-
-### Follow Your Favorite Authors
-
-Follow (subscribe) interesting users to receive notifications when they publish a new article. You can keep up with articles from your favourite writers on your own personalised timeline.
 
 ### Likes, Bookmarks, & Comments
 
