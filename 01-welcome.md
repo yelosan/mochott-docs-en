@@ -4,28 +4,20 @@
 
 ## Features
 
-### Distraction-free Editors 
-
-Mochott has a three editors: Modern, Classic, and Markdown. These support standard editing like headings, bold, images, as well as, advanced features like callouts, image alts, image captions, and custom blocks.
-
-<!-- Screenshot: Overview of the editor screen -->
-![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/images/static/doc-1-1)
+- Blazingly Fast
+- SEO Optimized
+- Analytics
+- Distraction-free editors: Modern, Classic, & Markdown (see: [Writing & Publishing Articles](writing-articles))
+- Custom Blocks(see: [Writing & Publishing Articles](writing-articles))
+- Minisites (see: [Creating Minisites](minisites))
+- Follow/Subscribe to Authors and Publications (see: [Follow & Subscribe](follow-and-subscribe))
+- Standard.site-compliant (see: [What Is Standard.site](standard-site))
+- Likes, Bookmarks, Comments
 
 ### Fast Load & SEO Optimized
 
 Mochott is thoroughly committed to optimising page loading speed. Article pages load quickly, ensuring a stress-free experience for your readers.
 Furthermore, as articles are published with a structure optimised for search engines, you can expect traffic from search engines such as Startprge, Google Search, DuckDuckGo, and Bing.
-
-### Organizing Articles Into Minisites
-
-You can group related articles together and publish them as "minisites". For example, you can organise articles by topic, such as "Travel Journal", "Technical Notes", or "Recipe Collections". You can set up your own domain for a minisite, so you can use it as your own blog site.
-
-### Custom Blocks
-
-You can create your own original components and embed them into your articles. For example, you can freely design elements such as "quote cards", "review boxes", and "profile introductions" using HTML and CSS. Blocks created can be published in the marketplace, and blocks created by other users can be used in your own articles.
-
-<!-- Screenshot: Custom Blocks Marketplace screen -->
-![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-2)
 
 ### Analytics
 
@@ -41,19 +33,6 @@ Follow (subscribe) interesting users to receive notifications when they publish 
 ### Likes, Bookmarks, & Comments
 
 Give a 'Like' to articles you enjoy. Save articles you'd like to read later to your 'Bookmarks'. You can also leave comments on articles to interact with the writers.
-
-## Mochott & The AT Protocol
-
-Mochott is built on a technology called the 'AT Protocol'.
-The AT Protocol is an open communication standard used by services such as Bluesky.
-
-What this means is:
-
-- **Your articles belong to you.** The article data is stored and linked to your account.
-- **You can connect with other services.** You can follow and view posts from users of other blog services that support the AT Protocol.
-- **You can use your existing Bluesky account.** If you are already using Bluesky, you can log in with the same account.
-
-If you want to know more, please visit the [What is Standard.site](standard-site) page.
 
 ## Recommended For
 
