@@ -59,9 +59,9 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 **For our authors:**
 
 ✅ [Distraction-free editors](writing-articles#editing-switch-editors): choose from Modern, Classic, & Markdown editors  
-✅ [Minisites](minisites): create thematic blogs 
+✅ [Minisites](minisites): create thematic blogs  
 ✅ Community Directory: we showcase your hard work on our front page  
-✅ SEO Optimized: worry-free backend search engine optimization 
+✅ SEO Optimized: worry-free backend search engine optimization  
 ✅ [Standard.site](standard-site)-compliant: reach and connect with the global ATmosphere network  
 ✅ [Custom Domains](minisites#setting-a-custom-domain): use your own domain for your blogs  
 ✅ [Custom Blocks](writing-articles#content-inserting-custom-blocks)  
@@ -71,7 +71,7 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 
 ✅ [Standard.site Stream](standard-site#reading-articles-from-standardsite-platforms): discover new authors and blogs across the ATmosphere network  
 ✅ [Follow & Subscribe](follow-and-subscribe) Authors/Publications  
-✅ Blazingly Fast: articles load instantly for stress-free reading 
+✅ Blazingly Fast: articles load instantly for stress-free reading  
 ✅ Lightweight & Content-first Design: distraction-free reading  
 ✅ Social Interaction: express your appreciation through likes, bookmark an article to read it again later, and connect with the author by leaving comments
 
