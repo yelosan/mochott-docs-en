@@ -4,15 +4,18 @@
 
 ## Features
 
-- Blazingly Fast
-- SEO Optimized
-- Analytics
-- Distraction-free editors: Modern, Classic, & Markdown (see: [Writing & Publishing Articles](writing-articles))
-- Custom Blocks (see: [Writing & Publishing Articles](writing-articles))
-- Minisites (see: [Creating Minisites](minisites))
-- Follow/Subscribe to Authors and Publications (see: [Follow & Subscribe](follow-and-subscribe))
-- Standard.site-compliant (see: [What Is Standard.site](standard-site))
-- Likes, Bookmarks, Comments
+✅ Blazingly Fast  
+✅ SEO Optimized  
+✅ Analytics  
+✅ Frontpage Community Directory  
+✅ Standard.site Stream  
+✅ [Distraction-free editors](writing-articles#editing-switch-editors): Modern, Classic, & Markdown  
+✅ [Custom Blocks](writing-articles#content-inserting-custom-blocks)  
+✅ Lightweight [Minisites](minisites)  
+✅ [Custom Domains](minisites#setting-a-custom-domain)  
+✅ [Follow & Subscribe](follow-and-subscribe) Authors/Publications  
+✅ [Standard.site](standard-site)-compliant  
+✅ Likes, Bookmarks, Comments
 
 ### Fast Load & SEO Optimized
 
