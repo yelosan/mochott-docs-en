@@ -1,4 +1,4 @@
-# Welcome To Mochott
+# Welcome to Mochott
 
 **Mochott** is a free, easy-to-use, and Standard.site-compliant blogging platform with *you* in mind. You can use our platform for your personal or brand blogs, for your project documentation, or even to build a portfolio showcasing your hard work.
 
@@ -49,7 +49,7 @@ We encourage reading our detailed explanation on [What Is Standard.site](standar
 
 Mochott helps you see how your stories resonate with your readers. Through your personalized dashboard, you can easily monitor your article views, likes, and bookmarks. By understanding which pieces your readers love the most, you can use these insights to thoughtfully plan your next articles.
 
-### Summary Of Features
+### Summary of Features
 
 **For Our Authors:**
 
@@ -70,7 +70,7 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 ✅ Lightweight & Content-first Design: distraction-free reading  
 ✅ Social Interaction: express your appreciation through likes, bookmark an article to read it again later, and connect with the author by leaving comments
 
-## Mochott Is Recommended For:
+## Mochott is Recommended For
 
 - Anyone who wants to pen down their ideas and share their thoughts
 - Social media users who wants to write more but are restricted to 300–500 characters only
