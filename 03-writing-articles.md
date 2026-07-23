@@ -2,45 +2,50 @@
 
 ## Writing an article
 
-Simply click the "New Post" button on the dashboard to start a new article draft.
+Simply click the "New Post" button on your dashboard to start writing your next article.
 
 ### Article title and description
 
-First, enter the title of your article. The description (a summary of the article) is optional but amis highly advisable for search engine results and when your article is shared on social media.
+First, enter your working title, you can update this to your final article title later. Meanwhile, adding a short description or summary is completely optional, though we highly advise doing so to help your article stand out on search engine results and social media shares.
 
 ### Content: Body
 
-Write your content into the main text area. While writing, if you select some text, a toolbar will appear where these text options are available:
+The main text area is where you write your article. While writing, if you highlight any part of your text, a helpful toolbar will gently pop up to offer these text formatting tools:
 
-- **Bold** and *italics*
-- Headings (h2, h3, h4, h5)
-- Bulleted and numbered lists
-- Inserting links
-- Quotes and callouts
-- Custom blocks
+- Regular text
+- Headings (h1, h2, and h3)
+- Blockquote
+- Code block
+- **Bold**
+- *Italics*
+- ~~Strikethrough~~
+- Inline code
+- Insert link
+- Text alignment (left, center, right)
 
 ### Content: Adding images
 
-Images can be inserted into your content. This can be done by drag-and-dropping an image to the text editor, or by clicking the image icon from the toolbar.
+We want your articles to be visually engaging for your readers. This is why we made sure you can easily insert photos into your content:
+
+- by simply dragging and dropping an image file straight into the text editor,
+- by clicking the convenient image icon found on your classic editor toolbar,
+- through the forward-slash command menu for the modern editor.
 
 ### Content: Inserting blocks
 
-Mochott offers many built-in blocks for ease of use. There are:
+Mochott is packed with many built-in blocks to make your writing experience smooth. These are:
 
-- Task List: a checklist block
-- Code Block: for programming snippets
-- Embed: for YouTube, Spotify, Mastodon, X (f. Twitter)
-- Table
-- Callout: info, warning, and tip admonitions
-- Toggle: collapsible section
-- Footnote
-- Math Block
-- Inline Math
-- Link Card: URL rich preview
-
-### Content: Using custom blocks
-
-You can also embed custom blocks you made, or by other users, into your articles. This can be done by selecting "Custom blocks" from the editor menu, then selecting the custom block you want to insert.
+- **Task List:** a checklist box, useful for ToDo type lists
+- **Code Block:** for programming snippets
+- **Embed:** an easy way to embed YouTube, Spotify, Mastodon, and X (f. Twitter) content
+- **Table:** tabular data made easy
+- **Callout:** cool boxes for important information, warnings, and helpful tips
+- **Toggle:** for adding a collapsible section
+- **Footnote:** for adding citations and references
+- **Math Block:** for displaying mathematical equations in a block format
+- **Inline Math:** for inserting math equations without breaking the flow of your sentence
+- **Link Card:** a visual card for generating rich URL previews
+- **Custom Blocks:** embed custom HTML/CSS blocks made by you, or by other users, into your articles
 
 ### Editing: Switching editors
 
