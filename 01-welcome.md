@@ -28,7 +28,18 @@ Visit our [Minisites](minisites) to learn how to create minisites. Did we mentio
 
 ### Community Directory
 
+At mochott, **YOU** always come first. We do not believe in hiding or burying your hard work behind deep menus and links. Instead, we proudly showcase your creations right on our front page. For us, a strong brand is built entirely on a loyal and vibrant community. Do you not agree?
 
+### SEO Optimized
+
+### Standard.site-compliant
+
+### Analytics
+
+You can check the number of views, likes, bookmarks, etc. for each article on the dashboard. By understanding which articles are being read and what kind of reactions they're getting, you can use this insight to plan your next articles.
+
+<!-- Screenshot: Analytics screen -->
+![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-3)
 
 ### Summary Of Features
 
@@ -55,13 +66,6 @@ Visit our [Minisites](minisites) to learn how to create minisites. Did we mentio
 
 Mochott is thoroughly committed to optimising page loading speed. Article pages load quickly, ensuring a stress-free experience for your readers.
 Furthermore, as articles are published with a structure optimised for search engines, you can expect traffic from search engines such as Startprge, Google Search, DuckDuckGo, and Bing.
-
-### Analytics
-
-You can check the number of views, likes, bookmarks, etc. for each article on the dashboard. By understanding which articles are being read and what kind of reactions they're getting, you can use this insight to plan your next articles.
-
-<!-- Screenshot: Analytics screen -->
-![](https://uo7nd5rd36od2sn4.public.blob.vercel-storage.com/doc-1-3)
 
 ### Likes, Bookmarks, & Comments
 
