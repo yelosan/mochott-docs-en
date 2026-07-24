@@ -1,6 +1,6 @@
 # Creating Minisites
 
-## What is a Minisite
+## What is a minisite
 
 We created the **Mochott** minisite feature to help you group and publish your articles by specific topics. You can easily use this to curate your very own "Travel Journal", "Technology Blog", or "Recipe Collection", or anything under the sun (provided it is within our Terms of Use).
 
@@ -63,7 +63,7 @@ There are two easy ways to add your articles to your new minisite.
 
 While you are working on your draft, you can already choose and assign the correct minisite for your article before hitting the publish button. Our system will immediately sort and display your article under that specific minisite once you publish it.
 
-### Moving an Article After Publishing
+### Moving an article after publishing
 
 Please do not worry if your article is already published, as you can still move it to a minisite anytime. You simply need to edit your existing article and update its minisite settings to move it to a minisite.
 
