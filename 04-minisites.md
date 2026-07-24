@@ -1,68 +1,74 @@
 # Creating Minisites
 
-## What Is A Minisite
+## What is a Minisite
 
-A **mochott** minisite is a feature that allows you to group and publish articles by topic. It can be a "Travel Journal", "Technology Blog", or "Recipe collection", or anything you can think of.
+We created the **Mochott** minisite feature to help you group and publish your articles by specific topics. You can easily use this to curate your very own "Travel Journal", "Technology Blog", or "Recipe Collection", or anything under the sun (provided it is within our Terms of Use).
 
-Without an assigned minisite, articles are published directly under an account's author profile (`mochott.site/your-handle/`). Different topics are listed together and this might be confusing for some of your readers.
+If you do not assign your articles to a minisite, your articles will be published directly under your main author profile (`mochott.site/your-handle/`). This means different topics will be listed together in one site or page, which might confuse some of your readers who are looking for specific content.
 
-By creating a minisite and assigning articles into it, the articles are then viewable per topic or blog (`mochott.site/minisite-slug/` or `minisite.your-domain.xyz`). It is neater and more organized.
+By creating a minisite and assigning your articles to it, your readers can view your work neatly organized per topic or blog (via `mochott.site/minisite-slug/` or your own custom domain like `minisite.your-domain.xyz`). We designed this to give you a much cleaner, more professional, and well-organized content presentation.
 
-## Creating Minisites
+## Creating your minisites
+
+Here is a short guide to setting up your own minisite. Please follow the steps below:
 
 ![A screenshot of the mochott minisite dashboard listing the minisites created by the user.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-01.png "The mochott minisite dashboard.")
 
-1. Select "Minisites" from your dashboard mene.
-2. Click the "Create Minisite" button.
-3. Configure the following information.
+1. Kindly select "Minisites" from your dashboard page.
+1. Please click the "Create Minisite" button to open the setup page.
+1. Carefully configure the necessary information.
 
-### Basic Information
+### Basic information
+
+Kindly provide the following basic information for your new minisite.
 
 ![A screenshot of the mochott minisite creation page for the 'Basic Information' section.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-02.png "Creating a Minisite: Basic Information")
 
-- **Site Name:** The title of the minisite ("Travel Blog", "Cooking Recipes").
-- **URL Type:** How you would like to access your minisite (see URL Settings below). 
-- **Description:** Enter a description of the minisite.
-- **Icon:** You can set an icon for your minisite. (soon)
+- **Site Name:** please enter the official title of your minisite (for example: "Travel Blog" or "Cooking Recipes").
+- **URL Type:** kindly choose how you would like your readers to access your minisite (we have provided the details under the URL Settings section below). 
+- **Description:** please provide a brief overview or summary of your minisite.
+- **Icon:** an icon that represents your minisite's topic or identity. (soon)
 
-#### URL Settings
+#### URL settings
 
 ![A screenshot of the mochott minisite creation page showing the 'Standard Slug' option.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-04.png "Creating a Minisite: Standard Slug")
 
-- (Standard) **Slug:** This forms part of the minisite's URL (`mochott.com/your-handle/s/travel`). It must be unique under `your-handle`'s namespace.
-- (Global) **Slug:** You can set a short URL (`mochott.com/travel`). It must be unique in the mochott system.
+- (Standard) **Slug:** This will form as part of your minisite's URL (`mochott.site/your-handle/s/minisite-slug`). Please ensure it is unique under your own handle's namespace.
+- (Global) **Slug:** You may also choose to secure a shorter, direct link (`mochott.site/minitise-slug`). Please note that this keyword must be unique across the entire Mochott system.
 
 ![A screenshot of the mochott minisite creation page showing the 'Global Slug' option.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-05.png "Creating a Minisite: Global Slug")
 
 ### Design
 
+We are glad to share that customizing your minisite to reflect your personal style and identity is possible in Mochott.
+
 ![A screenshot of the mochott minisite creation page showing the layout options and color settings.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-03.png "Creating a Minisite: Layout options and Color Settings")
 
-You can also customize the appearance of your minisite.
+- **Design Type:** please select your preferred layout from these three: Blog, Documentation, or Portfolio formats.
+- **Color Settings:** you also can adjust the main color, background color, and accent color of your new minisite to match your brand identity.
 
-- **Design Type:** Choose a layout from Blog, Documentation, or Portfolio.
-- **Color Settings:** You can change the main color, background color, and accent color.
+## Setting a custom domain
 
-## Setting A Custom Domain
+We invite you to use your own domain name for your minisites at no extra cost. You can have `reviews.your-domain.xyz`, `blog.your-domain.pink`, or `your-domain.me`.
 
 ![A screenshot of the mochott minisite management page focused on the 'Custom Domain' section.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-06.png "Creating a Minisite: Setting up a custom domain")
 
-Minisites can be assigned a custom domain like `reviews.your-domain.xyz` or `blog.your-domain.pink`. A minisite with a custom domain acts as a separate website than the mochott system, and this has advantages in search engine ranking aside from looking more professional and truly under your own personal brand.
+By configuring this feature, your minisite will function as an independent website or blog separate from the main Mochott domain name (`mochott.site`). We highly recommend this setup because it is a good signal for search engine ranking results. Aside from this, it gives your blog a much more professional look that truly reflects your own personal branding.
 
-## Adding Articles On Minisites
+## Adding articles to your minisites
 
-There are two ways to add articles on your new minisite.
+There are two easy ways to add your articles to your new minisite.
 
-### Assign A Minisite During Draft
+### Assigning a minisite to your draft
 
-In the article editor, you can assign a minisite before publishing it. This will immediately add the article to that minisite when published.
+While you are working on your draft, you can already choose and assign the correct minisite for your article before hitting the publish button. Our system will immediately sort and display your article under that specific minisite once you publish it.
 
-### Move An Article After Publishing
+### Moving an Article After Publishing
 
-Articles can also be moved to a minisite after it was published. Simply edit and update the article to assign a new minisite. 
+Please do not worry if your article is already published, as you can still move it to a minisite anytime. You simply need to edit your existing article and update its minisite settings to move it to a minisite.
 
-## Next Step
+## Next step
 
-If you find an article by a user you are interested in, why not follow them?
+If you happen to find an article you enjoy, we highly encourage you to follow them.
 
 → **[Following & Subscribing](follow-and-subscribe)**
