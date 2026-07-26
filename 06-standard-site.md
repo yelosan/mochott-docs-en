@@ -1,41 +1,43 @@
-# What Is Standard.site
+# What is Standard.site
 
-**Mochott** is [Standard.site](https://standard.site) compliant. This means that articles written on mochott can be discovered, displayed, and read, on other Standard.site-compliant applications, such as [Standard Reader](https://standard-reader.app).
+We are proud to share that **Mochott** is fully [Standard.site](https://standard.site). This means that the articles you write on our platform can be discovered, displayed, and read seamlessly on other Standard.site-compatible applications, such as [Standard Reader](https://standard-reader.app).
 
-Think of syndication feeds ("Atom" web standard, and the old "RSS" specification). A website can be subscribed to and read on other platforms through the syndication feed system. Standard.site is similar, it provides a universal way to store your content into your ATmosphere account which can be read by other Standard.site-compliant applications. Giving you, the author, access to the wider ATmosphere network and community.
+Think of syndication feeds like the "Atom" web standard or the old "RSS" specification. Through those systems, you can subscribe to a website and read its updates on other platforms. Standard.site works in a very similar way. It provides a universal way to store your content in your ATmosphere account so that other applications that supports Standard.site can read it. We designed this integration to give you, our dear authors, direct access to the wider ATmosphere network and community.
 
-## Mochott Supports Standard.site
+## Mochott supports Standard.site
 
 All mochott articles are automatically published in Standard.site format. There are no settings required. You do not need to change anything in your workflow, just write your new article and publish! Your articles are automatically compatible with Standard.site.
 
+All your Mochott articles are published in the Standard.site format by default. You do not need to adjust any settings or change anything in your usual workflow. Feel free to just write your new article and publish it as usual!
+
 Benefits of Standard.site:
 
-- Your articles can be discovered and listed on other Standard.site-compliant applications and platforms.
-- Standard.site-compliant articles published on other platforms can be discovered and listed on mochott.
+- Your articles can be discovered and listed on other Standard.site-compatible applications and platforms.
+- You can also discover and read Standard.site-compliant articles published on other platforms right here on Mochott.
 
 ## The AT Protocol & Standard.site
 
-Standard.site is a standardized set of "rules" for long-form publishing, or blogs, built on top of the AT Protocol.
+Think of Standard.site as a standardized set of guidelines for long-form publishing (commonly known as blogging) built on top of the AT Protocol.
 
-- **AT Protocol:** The underlying technology for data exchange. Bluesky also uses this technology.
-- **Standard.site:** A common format defined on top of the AT Protocol that specifies how blog articles should be recorded on and read from the AT Protocol.
+- **AT Protocol:** This serves as the underlying technology for data exchange. Please note that Bluesky also utilizes this exact same technology.
+- **Standard.site:** This is a common format defined on top of the AT Protocol that specifies how blog articles should be recorded and read.
 
-Mochott supports both.
+Mochott supports both technologies.
 
-## Your Data Belongs To You
+## Your data belongs to Yyou
 
-With AT Protocol, the articles you write are stored in your account provider (PDS). Mochott is just one of the services that displays that data.
+Through the AT Protocol, the articles you write are safely stored inside your personal data server or account provider (technically called PDS or Personal Data Server/Storage). We want to emphasize that Mochott is just one of the services that writes and displays your data.
 
-Even if you stop using mochott, your data will remain on your account. If you switch to another Standard.site-compatible service, you can theoretically carry your posts over as they are (it still depends if that other service reads from the AT Protocol directly or requires an import tool (which they have to develop)).
+Even if you choose to stop using Mochott, your data will remain in your own account. If you decide to switch to another ATmosphere service, you can carry your posts over as they are. Please note, however, that this still depends on whether the other service reads from the AT Protocol directly or requires that you import tool your data to their platform first.
 
-## Reading Articles From Standard.site Platforms
+## Reading articles from Standard.site platforms
 
-If you select `standard.site` on the menu ([mochott.site/standard-site](https://mochott.site/standard-site)), you can view the articles from Standard.site-compliant services other than mochott.
+If you select `standard.site` from the top-left menu ([mochott.site/standard-site](https://mochott.site/standard-site)), you can view interesting articles published from Standard.site-compliant services outside of Mochott.
 
 ![A screenshot of mochott focused on the menu with the standard.site option.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-standard_site-01.png "The mochott upper-left menu with the standard.site option.")
 
 ![A screenshot of the mochott standard.site discovery page.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-standard_site-02.png "The mochott standard.site discovery page.")
 
-And if you want to only view Standard.site articles from the authors you follow, you can do this on the Feed page and by selecting the `standard.site` tab ([mochott.site/feed?filter=network](https://mochott.site/feed?filter=network)).
+Furthermore, if you prefer to view only the Standard.site articles written by the authors you follow, you may conveniently do so by visiting your "Feed" page and selecting the `standard.site` tab ([mochott.site/feed?filter=network](https://mochott.site/feed?filter=network)).
 
 ![A screenshot of mochott's Feed page showing the standard.site tab.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-feed-standard_site-01.png "The mochott Feed page with the standard.site tab selected.")
