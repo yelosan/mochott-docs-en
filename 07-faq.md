@@ -1,79 +1,85 @@
 # Frequently Asked Questions
 
+We compiled this list of common inquiries to assist you better while exploring our platform. If you have any other concerns, please feel free to reach out to us.
+
 ## Account
 
-### Q: Does it cost anything to use mochott?
+### Q: Does it cost anything to use Mochott?
 
-**Mochott** is free to use. All basic features—such as creating an account, posting articles, and following other authors—are free of charge. Please note that we plan to offer paid plans in the future, and there may be plan-specific limits on the number of drafts or minisites that can created.
+We are happy to share that **Mochott** is completely free to use. All of our basic features, such as creating your account, posting your articles, and following your favorite authors, are free of charge. Please note, however, that we plan to offer paid plans in the future, which means there may be plan-specific limits on the number of drafts or minisites that can be created on the free tier.
 
-### Q: Do I need a Bluesky account to use mochott?
+### Q: Do I need a Bluesky account to use Mochott?
 
-A Bluesky account is not required. You can create a new, or use an existing, ATmosphere account hosted on any account providers, like **tokimeki.social**, eurosky.social, tophhie.social, and selfhosted.social, to mention a few.
+A Bluesky account is not required. You can easily create a new account or use an existing ATmosphere account hosted on any provider, like **tokimeki.social**, eurosky.social, tophhie.social, and selfhosted.social, to mention a few.
 
-For more information, please refer to [Getting Started](getting-started).
+For more details, we kindly ask you to refer to our [Getting Started](getting-started) guide.
 
-### Q: Are followers and articles on mochott separate from those on Bluesky?
+### Q: Are followers and articles on Mochott separate from those on Bluesky?
 
-Yes, those are separate. Articles and follow relationships on mochott do not appear on your Bluesky. Although you use the same account, the services are independent of each another.
+Yes, these are separate systems. Your articles and follow relationships on Mochott will not appear on your Bluesky account. Even if you use the exact same account credentials, these two services operate independently of each another.
 
 ### Q: Help! I forgot my password!
 
-Mochott itself has no password. Login is done through the AT Protocol authentication system. You can reset your password on your account provider's website, such as [TOKIMEKI](https://tokimeki.social/account), [Eurosky](https://eurosky.social/account), [Tophhie](https://tophhie.social/account), or [Bluesky](https://bsky.app).
+Please do not worry! We request you to reset your password directly on your specific account provider's website, such as [TOKIMEKI](https://tokimeki.social/account), [Eurosky](https://eurosky.social/account), [Tophhie](https://tophhie.social/account), or [Bluesky](https://bsky.app). Mochott itself does not see or store your password. Whenever you login to Mochott, it is securely processed through the AT Protocol authentication system located on your account provider's website.
 
 ## Articles
 
 ### Q: Is there a character limit for articles?
 
-An article can have up to 100,000 characters and the article title up to 500. It is more than enough for a typical article.
+We want to give you plenty of space, so an article can have up to 100,000 characters, while the article title can accommodate up to 500 characters. We believe this is more than enough room for a typical long-form content.
 
 ### Q: Can I delete an article?
 
-Absolutely! You can delete an article from the article list on your dashboard.
+Absolutely! If you wish to remove a post, you can easily delete the article from the article list found on your dashboard.
 
 ### Q: Can I revert a published article to a draft?
 
-That is easy. Simply edit the article and then click the "Revert to draft" button. 
+Yes, that is very easy to do. Simply edit the published article and then click the "Revert to draft" button.
 
 ### Q: Can I choose a custom article URL?
 
-Yes, of course. You can set the slug (an article's unique URL) in the article editor.
+Of course! You have full control to set the slug (the unique web address for your aritcle) inside the article editor before or after publishing.
 
 ## Minisites
 
 ### Q: How many minisites can I create?
 
-You can create multiple minisites as you see fit for your content. As noted earlier, once paid plans are introduced, a limit might be introduced for the free tier.
+We allow you to create multiple minisites as you see fit for your various content topics. As we noted earlier, please keep in mind that once paid plans are introduced, we might put a limit on the free tier.
 
 ### Q: Can I include an article on multiple minisites?
 
-No. An article can only be assigned into one minisite. If you want the same content to be in multiple minisites, you need to duplicate it and have unique article slugs. This is not advisable as search engines often penalize websites with duplicate content.
+No, an article can only be assigned to one minisite at a time. If you wish to have the same content appear across multiple minisites, you will need to duplicate the post and give it a unique article slug. However, we do not advise doing this because search engines often penalize websites that contain duplicate content.
 
 ### Q: I don't know how to set up a custom domain
 
-Enter your domain in the minisite settings screen, then configure the DNS records on your domain provider's interface. Please refer to [Creating Minisites](minisites) for detailed instructions.
+It is easy! Simply enter your chosen domain name in the minisite settings screen, and then configure the corresponding DNS records on your domain provider's DNS configuration page. You're done!
+
+We ask you to refer to our [Creating Minisites](minisites) page for detailed, step-by-step instructions.
 
 ## Data
 
-### Q: What happens to my content if I stop using mochott?
+### Q: What happens to my content if I stop using Mochott?
 
-Your articles are stored in your ATmosphere account provider (PDS). Even if you stop using mochott, your data will remain in your account. You can continue publishing new articles by using another service that supports [Standard.site](https://standard.site).
+Rest assured that your articles are safely stored with your ATmosphere account provider (PDS). Even if you choose to stop using Mochott, your data will remain completely intact inside your own account. You can freely continue publishing new articles by migrating to another service that supports the Standard.site format.
 
 ### Q: Can I backup my content?
 
-As your content data is stored on your account provider's servers (PDS), it is automatically backed-up.
+Since your content data is directly stored on your chosen account provider's servers (PDS), it is automatically backed up.
 
 ## Other Questions
 
 ### Q: Which browsers are supported?
 
-Any current modern browsers are supported like Mozilla Firefox, Naver Whale, Via, Safari, Vivaldi, and Microsoft Edge, to mention few.
+We support any modern browser that you prefer using, such as Mozilla Firefox, Naver Whale, Via, Safari, Vivaldi, and Microsoft Edge, to mention a few.
 
 ### Q: Can I use it on a smartphone?
 
-Yes. You can access mochott via your smartphone's browser to view and publish new articles.
+Certainly! You may conveniently access the Mochott platform via your smartphone's mobile browser to read updates and publish new articles while on the go.
 
 ### Q: Where can file a bug report or submit suggestions?
 
-If you have any feedback or requests, please let us know at @[tokimeki.blue](https://aturi.to/profile/tokimeki.blue).
+We always appreciate your valuable feedback and requests! If you have anything to share with us, we kindly request you to let us know at @[tokimeki.blue](https://aturi.to/profile/tokimeki.blue).
+
+Or for concerns related to the English documentation, reach out to @[sera.is.youronly.one](https://aturi.to/profile/sera.is.youronly.one).
 
 <!-- Include links to contact details or official account handles -->
