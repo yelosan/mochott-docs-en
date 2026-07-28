@@ -1,3 +1,6 @@
+> [!note]  
+> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+
 # Welcome to Mochott
 
 **Mochott** is a free, easy-to-use, and Standard.site-compliant blogging platform with *you* in mind. You can use our platform for your personal or brand blogs, for your project documentation, or even to build a portfolio showcasing your hard work.
