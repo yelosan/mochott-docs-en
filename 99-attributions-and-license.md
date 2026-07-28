@@ -2,9 +2,9 @@
 
 ## Attributions
 
-The English translation was provided free-of-charge by [Yelosan Publishing](https://yelosan.youronly.one) and was done by [Yohan Yukiya Sese Cuneta](https://pro.youronly.one) (@[sera.is.youronly.one](https://aturi.to/profile/sera.is.youronly.one)).
+This unofficial English translation was provided free-of-charge by [Yelosan Publishing](https://yelosan.youronly.one) and made by [Yohan Yukiya Sese Cuneta](https://pro.youronly.one) (@[sera.is.youronly.one](https://aturi.to/profile/sera.is.youronly.one)).
 
-The based material was written by @[holybea.blue](https://aturi.to/profile/holybea.blue) which can be found on [Tangled](https://tangled.org/holybea.blue/mochott-docs-ja).
+The official documentation was written by @[holybea.blue](https://aturi.to/profile/holybea.blue) which can be found on [Tangled](https://tangled.org/holybea.blue/mochott-docs-ja).
 
 ## License
 
