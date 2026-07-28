@@ -1,3 +1,6 @@
+> [!note]  
+> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+
 # What is Standard.site
 
 We are proud to share that **Mochott** is fully [Standard.site](https://standard.site). This means that the articles you write on our platform can be discovered, displayed, and read seamlessly on other Standard.site-compatible applications, such as [Standard Reader](https://standard-reader.app).
