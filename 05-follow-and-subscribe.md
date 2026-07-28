@@ -1,3 +1,6 @@
+> [!note]  
+> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+
 # Follow & Subscribe
 
 We designed **Mochott** to let you easily follow and subscribe to your favorite authors. Once you follow them, you will be notified whenever they publish new articles.
