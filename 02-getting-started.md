@@ -1,3 +1,6 @@
+> [!note]  
+> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+
 # Getting Started
 
 To begin your writing journey at **Mochott**, you will need an ATmosphere account. If you already have an existing ATmosphere account, like Bluesky (`username.bsky.social`), you can log in straight away. Otherwise, we welcome you to sign up for a new account through any of the ATmosphere account providers available below.
