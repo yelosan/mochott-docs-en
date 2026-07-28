@@ -1,3 +1,6 @@
+> [!note]  
+> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+
 # Creating Minisites
 
 ## What is a minisite
