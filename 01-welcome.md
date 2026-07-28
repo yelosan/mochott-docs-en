@@ -1,5 +1,8 @@
-> [!note]  
-> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+<div data-node="callout" data-attrs='{"type":"info"}'>
+
+This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+
+</div>
 
 # Welcome to Mochott
 
@@ -49,7 +52,7 @@ Whenever you publish a new article on Mochott, we automatically save it to your 
 
 As a special bonus, your precious content will always stay with your account. Even if you decide to switch platforms later, your ATmosphere account will always have a complete and permanent record of all your written works.
 
-We encourage reading our detailed explanation on [What Is Standard.site](standard-site) to learn more about how this protects your digital legacy and why this is an important feature you should never put aside.
+We encourage reading our detailed explanation on [What is Standard.site](standard-site) to learn more about how this protects your digital legacy and why this is an important feature you should never put aside.
 
 ### Analytics
 
