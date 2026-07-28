@@ -67,7 +67,7 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 ✅ SEO Optimized: worry-free backend search engine optimization  
 ✅ [Standard.site](standard-site)-compliant: reach and connect with the global ATmosphere network  
 ✅ [Custom Domains](minisites#setting-a-custom-domain): use your own domain for your blogs  
-✅ [Custom Blocks](writing-articles#content-inserting-custom-blocks)  
+✅ Custom Blocks: embed custom HTML/CSS blocks made by you, or by other users, into your articles  
 ✅ Analytics  
 
 **For your readers:**
