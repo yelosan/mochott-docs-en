@@ -21,11 +21,11 @@ We have three editors available for you to choose from:
 
 By offering these three types of editors, we want to ensure that our dear authors, like yourself, can use the specific tool you are most comfortable with for your writing journey.
 
-See [Switch Editors](writing-articles#editing-switch-editors) to learn how easy it is to switch.
+See [Switching Editors](writing-articles#editing-switching-editors) to learn how easy it is to switch.
 
 ### Minisites
 
-![A screenshot of the mochott minisite dashboard listing the minisites created by the user.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-01.png "The mochott minisite dashboard.")
+![A screenshot of the Mochott minisite dashboard listing the minisites created by the user.](https://tangled.org/did:plc:henromw7exy7zfpujzlve4je/raw/main/images/mochott-minisite-01.png "The Mochott minisite dashboard.")
 
 Mochott designed minisites to give authors, such as yourself, the freedom to create dedicated blogs for your specific interests and themes. Instead of mixing all your content into a single blog, you can give each topic its own website.
 
@@ -61,7 +61,7 @@ Mochott helps you see how your stories resonate with your readers. Through your 
 
 **For our authors:**
 
-✅ [Distraction-free editors](writing-articles#editing-switch-editors): choose from Modern, Classic, & Markdown editors  
+✅ [Distraction-free editors](writing-articles#editing-switching-editors): choose from Modern, Classic, & Markdown editors  
 ✅ [Minisites](minisites): create thematic blogs  
 ✅ Community Directory: we showcase your hard work on our front page  
 ✅ SEO Optimized: worry-free backend search engine optimization  
