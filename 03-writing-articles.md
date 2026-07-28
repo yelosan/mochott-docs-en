@@ -1,3 +1,6 @@
+> [!note]  
+> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+
 # Writing & Publishing Articles
 
 ## Writing an article
