@@ -1,3 +1,6 @@
+> [!note]  
+> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+
 # Frequently Asked Questions
 
 We compiled this list of common inquiries to assist you better while exploring our platform. If you have any other concerns, please feel free to reach out to us.
