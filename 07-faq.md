@@ -83,6 +83,6 @@ Certainly! You may conveniently access the Mochott platform via your smartphone'
 
 We always appreciate your valuable feedback and requests! If you have anything to share with us, we kindly request you to let us know at @[tokimeki.blue](https://aturi.to/profile/tokimeki.blue).
 
-Or for concerns related to the English documentation, reach out to @[sera.is.youronly.one](https://aturi.to/profile/sera.is.youronly.one).
+Or for concerns related to this English documentation, reach out to @[sera.is.youronly.one](https://aturi.to/profile/sera.is.youronly.one).
 
 <!-- Include links to contact details or official account handles -->
