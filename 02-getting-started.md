@@ -1,5 +1,6 @@
-> [!note]  
-> This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+<div data-node="callout" data-attrs='{"type":"info"}'>
+This is an unofficial English translation, with a few adjustments to better serve English-speaking readers.
+</div>
 
 # Getting Started
 
