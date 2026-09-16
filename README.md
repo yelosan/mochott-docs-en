@@ -1,4 +1,6 @@
-# mochott-docs-en
+# Unofficial mochott_ Documentation (English) 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22784887.svg)](https://doi.org/10.5281/zenodo.22784887) <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22784934.svg)](https://doi.org/10.5281/zenodo.22784934) -->
 
 An unofficial English translation of the [Mochott documentation](https://mochott.site/documents/).
 
